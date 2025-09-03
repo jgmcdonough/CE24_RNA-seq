@@ -34,40 +34,20 @@ head(gill_df)
 # Assigning good or bad RNA
 Based on the absorbance ratios - "good" RNA have 260/280 and 260/230 values > 2.0 and are good to go for sequencing - can proceed directly to the DNase treatment. 
 
-**good rna**
-```{r filter for good quality RNA}
+Creating a new column, `QC_pass`, to keep track of which samples will pass QC or not. 
+- Y = yes passes QC - both absorbance ratios are above 2.0
+- K = kinda passes QC - only the 260/280 ratio is above 2.0 (as long as qubit conc. is okay, sample will most likely move on for sequencing)
+- N = no, doesn't pass QC - both absorbance ratios are below 2.0 
 
-# pull out RNA with good quality already
-good_rna <- gill_df %>%
-  # both ratios are above 2.0
-  filter(RNA_260.280 >= 2.0 & RNA_260.230 >= 2.0) 
 
-# create new col, QC_pass (Y if absorbances are good)
-good_rna$QC_pass <- 'Y'
+```{r QC assignment}
+rna <- rna %>%
+  mutate(QC_pass = case_when(
+    RNA_260.280 >= 2 & RNA_260.230 >= 2 ~ 'Y',
+    RNA_260.280 >= 2 & RNA_260.230 < 2  ~ 'K',
+    TRUE                                ~ 'N'
+  ))
 
-head(good_rna)
-```
-"bad" RNA are everything else - one or both of the ratios are below 2.0 and possibly have contamination.
-
-**okay rna**
-```{r}
-# pull out RNA with good quality already
-okay_rna <- gill_df %>%
-  # one or both of the ratios are below 2.0
-  filter(RNA_260.280 < 2.0 | RNA_260.230 < 2.0) 
-
-# this is basically all the other gill samples
-
-# create new col, QC_pass (N if absorbances are "bad")
-okay_rna$QC_pass <- 'N'
-
-head(okay_rna)
-```
-
-combine the dfs together
-
-```{r one df with good and okay RNA}
-rna <- rbind(good_rna, okay_rna)
 ```
 
 
@@ -131,7 +111,7 @@ rna$dnase_box <- ''
 
 make new csv to keep track of dnase treatment processing
 ```{r write csv}
-write.csv()
+write.csv(rna, '~/Documents/CE24_RNA-seq/tissue_processing/dnase_treat_tracker.csv', row.names=FALSE)
 ```
 
 
