@@ -1,2 +1,5 @@
-# Pre-processing
-includes code for trimming, QA/QC, and alignment
+# Processing
+scripts to process raw sequences prior to analysis and pipeline counts
+
+#### [processing_seqs.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/processing/processing_seqs.ipynb)
+- includes scripts for trim-galore, fastQC
