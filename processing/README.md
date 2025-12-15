@@ -10,3 +10,6 @@ Total RNA was sent to Novogene for library preparation (poly A enrichment) and s
 
 ### [pipeline_counts.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/processing/pipeline_counts.ipynb)
 - script to keep track of number of reads at each step of workflow
+
+### [qc_outputs](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/processing/qc_outputs)
+- directory for storing code outputs (multiqc html report, novogene qc summary, etc.)
