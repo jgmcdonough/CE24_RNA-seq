@@ -15,17 +15,14 @@ Repository for *Crassostrea virginica* gill tissue RNA-seq processing and analys
 also see [sample_metaData.csv](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/sample_metaData.csv) for more detailed sample treatment information.
 
 ## RepoContents
-### [processing](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/processing)
-**raw sequences to analysis-ready**
-- [pipeline_counts.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/processing/pipeline_counts.ipynb) - code to keep track of reads at each step of workflow
-- [processing_seqs.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/processing/processing_seqs.ipynb) - code to process raw seqs from trimming to generating counts matrix as input for DESeq2
-- [qc_outputs](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/processing/qc_outputs) - directory containing outputs from processing_seqs.ipynb and novogene
+- ### [processing](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/processing): raw sequences to analysis-ready
+    - [pipeline_counts.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/processing/pipeline_counts.ipynb): code to keep track of reads at each step of workflow
+    - [processing_seqs.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/processing/processing_seqs.ipynb): code to process raw seqs from trimming to generating counts matrix as input for DESeq2
+    - [qc_outputs](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/processing/qc_outputs): directory containing outputs from processing_seqs.ipynb and novogene
   
 
-### [analysis](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis)
-**differential expression and alternative splicing**
+- ### [analysis](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis): differential expression and alternative splicing
 
-#### [diff_expression](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression)
-directory for analysis code and outputs for differential expression
+    - #### [diff_expression](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression): directory for analysis code and outputs for differential expression
 
 
