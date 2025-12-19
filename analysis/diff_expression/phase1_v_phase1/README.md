@@ -2,10 +2,11 @@
 Analysis of oysters that only experienced phase 1 
 
 ## Comparison Info
-- **Warm/Hypoxic vs. Control** - effect of single stress at one timepoint
-- **Both vs. Control** - effect of multi stressors at one timepoint
-- **Warm/Hypoxic vs. Both** - effect of single vs. multi stressors at one timepoint (when one of the stressors is shared)
-- **Warm vs. Hypoxic** - effect of different single stressors at one timepoint (shared/unique responses to single stressor)
+Investigating the difference between each environmental stressor at a **single timepoint** in oysters that are naive to prior stress
+- **Warm/Hypoxic vs. Control** - effect of single stress 
+- **Both vs. Control** - effect of simultaneous stressors 
+- **Warm/Hypoxic vs. Both** - effect of single vs. simultaneous stressors (when one of the stressors is shared)
+- **Warm vs. Hypoxic** - effect of different single stressors
 
 ## File Info
 - [deseq_p1.v.p1.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/deseq_p1.v.p1.ipynb) - using `DESeq2` to identify DEGs
