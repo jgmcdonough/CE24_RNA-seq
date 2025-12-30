@@ -1,0 +1,2 @@
+# DESeq Results Files
+All CSVs in this directory are generated from [deseq_p1.v.p1.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/deseq_p1.v.p1.ipynb). Includes CSVs with all genes and only DEGs.
