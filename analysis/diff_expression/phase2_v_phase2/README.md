@@ -35,6 +35,7 @@ the oyster experienced both a repeated *and* a novel stress in later exposure
 
 ### 5. Shared/Unique Responses In...
 #### ...Different *Early* Stress Exposures
+>similar to [p1 v. p1 analyses](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase1), but looking at this when oysters are older and returned to control conditions
 - **WC vs. HC**: single early stress 
 - **BC vs. HC**: multiple vs. single early stress
 - **BC vs. WC**: multiple vs. single early stress
