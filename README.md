@@ -24,7 +24,9 @@ also see [sample_metaData.csv](https://github.com/jgmcdonough/CE24_RNA-seq/blob/
 - ### [analysis](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis): differential expression and alternative splicing
 
     - #### [diff_expression](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression): directory for code, outputs, and plots for differential expression
-        - [phase1_v_phase1](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase1): comparisons of oysters that only experienced phase 1
+        - [phase1_v_phase1](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase1): comparisons of oysters that only experienced phase 1; changes in GE at **one timepoint**
+        - [phase1_v_phase2](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase2): comparisons of oysters that only experienced phase 1 to those that experienced both phase 1 *and* 2; changes in GE **across ontogeny**
+        - [phase2_v_phase2](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2): comparisons of oysters that experienced both phase 1 and 2; changes in GE at **two timepoints**
     - #### [alt_splicing](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/alt_splicing): directory for code, outputs, and plots for alternative splicing
 
 
