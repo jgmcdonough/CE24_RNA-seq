@@ -2,20 +2,20 @@
 Analysis of oysters that experienced both phase 1 and phase 2
 
 ## Comparison Info
-Investigating **multiple stressors** across **multiple timepoints** in oysters
+Investigating **multiple stressors** across **two timepoints** in oysters
 
-### Priming vs. No Priming
+### 1. Priming vs. No Priming
+The effect of early exposures in the response to later exposures
 #### matched stressors
-the oyster experienced a repeated stress in phase 2
 - **HH vs. CH**
 - **WW vs. CW**
 - **BB vs. CB**
 #### semi-matched stressors
-the oyster experienced both a repeated *and* a novel stress in phase 2
+the oyster experienced both a repeated *and* a novel stress in later exposure
 - **WB vs. CB**
 - **HB vs. CB**
 
-### Single vs. Multiple Stressor Priming ...
+### 2. Single vs. Multiple Stressor Priming ...
 #### ...when later exposed to *single* stressors
 - **BH vs. HH**
 - **BW vs. WW**
@@ -23,5 +23,26 @@ the oyster experienced both a repeated *and* a novel stress in phase 2
 - **HB vs. BB**
 - **WB vs. BB**
 
-### Effect of early environment in different contexts
-the oyster experienced early exposure to single stress (and so semi-repeated later) or multiple stressors (so exactly repeated later)
+### 3. Timing of Stress Exposure
+- **CH vs. HC**
+- **CW vs. WC**
+- **CB vs. BC**
+
+### 4. Effect of Early Exposure in Subsequent Response
+- **HH vs. HC**
+- **WW vs. WC**
+- **BB vs. BC**
+
+### 5. Shared/Unique Responses In...
+#### ...Different *Early* Stress Exposures
+- **WC vs. HC**: single early stress 
+- **BC vs. HC**: multiple vs. single early stress
+- **BC vs. WC**: multiple vs. single early stress
+#### ...Different *Later* Stress Exposures
+- **CW vs. CH**: single early stress 
+- **CB vs. CH**: multiple vs. single early stress
+- **CB vs. CW**: multiple vs. single early stress
+
+### 6. Order of Stressors
+Does the order of when stress is experienced matter? Maybe one stressor is an informative cue for a later environment? 
+- **WH vs. HW**
