@@ -5,12 +5,12 @@ Repository for *Crassostrea virginica* gill tissue RNA-seq processing and analys
 
 
 ## Sample Name Code
-| Treatment    | Temperature | Dissolved Oxygen |
-| -------- | ------- | ------- |
-| Control | ambient | normoxic |
-| Both  | warm    | hypoxic |
-| Hypoxic | ambient     | hypoxic |
-| Warm    | warm    | normoxic
+| Treatment    | Code| Temperature | Dissolved Oxygen |
+| -------- | ---|---- | ------- |
+| Control | C|ambient | normoxic |
+| Both  | B|warm    | hypoxic |
+| Hypoxic | H|ambient     | hypoxic |
+| Warm    | W|warm    | normoxic
 
 also see [sample_metaData.csv](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/sample_metaData.csv) for more detailed sample treatment information.
 
