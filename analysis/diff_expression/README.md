@@ -1,6 +1,13 @@
 # Differential Expression Analysis
 differentially expressed genes identified with [`DESeq2`](https://bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) with downstream analyses (shared/unique responses, gene annotation and ontology)
 
+|Code|Treatment|
+|---|---|
+|C|Control|
+|H|Hypoxic|
+|W|Warm|
+|B|Both|
+
 ## Phase 1 Comparisons ([dir](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase1))
 Comparing oysters that only experienced phase 1 - looking at the effect of a treatment at ***one timepoint***
 - DESeq analysis [code](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/deseq_p1.v.p1.ipynb)
