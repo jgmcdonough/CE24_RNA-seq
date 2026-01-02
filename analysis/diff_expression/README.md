@@ -3,7 +3,7 @@ differentially expressed genes identified with [`DESeq2`](https://bioconductor.o
 
 ## Phase 1 Comparisons ([dir](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase1))
 Comparing oysters that only experienced phase 1 - looking at the effect of a treatment at ***one timepoint***
-- DESeq analysis [code](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/deseq_phase1.v.phase1.ipynb)
+- DESeq analysis [code](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/deseq_p1.v.p1.ipynb)
 - output CSVs in [deseq_res_files](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/deseq_res_files)
 
 ## Phase 1 to Phase 2 Comparisons ([dir](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase2))
