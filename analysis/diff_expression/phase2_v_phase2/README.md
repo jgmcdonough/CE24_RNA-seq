@@ -3,19 +3,25 @@ Analysis of oysters that experienced both phase 1 and phase 2
 
 ## Comparison Info
 Investigating **multiple stressors** across **multiple timepoints** in oysters
-### priming
+
+### Priming vs. No Priming
 #### matched stressors
-the oyster is experiencing a repeated stress in phase 2 compared to no priming
+the oyster experienced a repeated stress in phase 2
 - **HH vs. CH**
 - **WW vs. CW**
 - **BB vs. CB**
 #### semi-matched stressors
-the oyster is experiencing both a repeated and a novel stress in phase 2, *compared to no priming*
+the oyster experienced both a repeated *and* a novel stress in phase 2
 - **WB vs. CB**
 - **HB vs. CB**
 
-the oyster is experiencing both a repeated and novel stress in phase 2, *compared to being primed with multiple stressors*
+### Single vs. Multiple Stressor Priming ...
+#### ...when later exposed to *single* stressors
+- **BH vs. HH**
+- **BW vs. WW**
+#### ...when later exposed to *multiple* stressors
 - **HB vs. BB**
 - **WB vs. BB**
-### effect of early environment in different contexts
 
+### Effect of early environment in different contexts
+the oyster experienced early exposure to single stress (and so semi-repeated later) or multiple stressors (so exactly repeated later)
