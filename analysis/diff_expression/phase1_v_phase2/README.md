@@ -10,4 +10,5 @@ Investigating how GE changes *across ontogeny*
 See the [phase2_v_phase2 directory](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2) to further investigate how GE changes across multiple exposures at two timepoints
 
 ## File Info
-- [deseq_p1.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/deseq_p1.v.p2.ipynb) - using `DESeq2` to identify DEGs
+- [deseq_p1.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/deseq_p1.v.p2.ipynb) - using `DESeq2` to identify DEGs - outputs are located in [deseq_res_files](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/deseq_res_files)
+- [volcano_p1.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/volcano_p1.v.p2.ipynb) - using `ggplot` to make volcano plots from DESeq2 results
