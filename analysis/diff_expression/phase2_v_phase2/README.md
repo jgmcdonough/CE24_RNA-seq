@@ -13,6 +13,7 @@ the oyster is experiencing a repeated stress in phase 2 compared to no priming
 the oyster is experiencing both a repeated and a novel stress in phase 2, *compared to no priming*
 - **WB vs. CB**
 - **HB vs. CB**
+
 the oyster is experiencing both a repeated and novel stress in phase 2, *compared to being primed with multiple stressors*
 - **HB vs. BB**
 - **WB vs. BB**
