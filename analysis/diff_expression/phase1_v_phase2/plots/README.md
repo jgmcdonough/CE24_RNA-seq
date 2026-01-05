@@ -4,6 +4,8 @@
 
 ### DEGs
 Visualizing and identifying DEGs in each pairwise comparison. Generated in [volcano_p1.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/volcano_p1.v.p2.ipynb)
+- [combined_volcano.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/plots/combined_volcano.pdf): H vs. HC, W vs. WC, and B vs. BC volcano plots
+- [p1.p2_upset.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/plots/p1.p2_upset.pdf): upset plot to visualize unique/shared DEGs among the above pairwise comparisons
 
 
 ### GOSlim Barplots
