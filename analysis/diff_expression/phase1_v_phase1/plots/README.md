@@ -3,12 +3,13 @@
 ## Plot Info
 
 ### DEGs
-- **[vs.control_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase1/plots/vs.control_bar.pdf)**: barplots for number of up- and down-regulated DEGs in comparisons with control ([code](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/volcano_p1.v.p1.ipynb))
-- **[vs.control_volcano.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/vs.control_volcano.pdf)**: volcano plots for comparisons with control ([code](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/volcano_p1.v.p1.ipynb))
-- **[vs.other_volcano.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/vs.other_volcano.pdf)**: volcano plots for comparisons outside of those against control ([code](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/volcano_p1.v.p1.ipynb))
+Visualizing and identifying DEGs in each pairwise comparison. Generated in [volcano_p1.v.p1.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/volcano_p1.v.p1.ipynb)
+- **[vs.control_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase1/plots/vs.control_bar.pdf)**: barplots for number of up- and down-regulated DEGs in comparisons with control 
+- **[vs.control_volcano.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/vs.control_volcano.pdf)**: volcano plots for comparisons with control
+- **[vs.other_volcano.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/vs.other_volcano.pdf)**: volcano plots for comparisons outside of those against control
 
 ### GOSlim Barplots
-Visualizing the top 20 most abundant GOSlim terms for BP, MF, and CC for each pairwise comparison.
+Visualizing the top 20 most abundant GOSlim terms for BP, MF, and CC for each pairwise comparison. Generated in [gene_ontology_p1.v.p1.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/gene_ontology_p1.v.p1.ipynb)
 - **both vs. control**: [topGO.bc_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/topGO.bc_bar.pdf)
 - **warm vs. control**: [topGO.wc_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/topGO.wc_bar.pdf)
 - **hypoxic vs. control**: [topGO.hc_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/topGO.hc_bar.pdf)
