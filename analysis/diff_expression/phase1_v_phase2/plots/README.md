@@ -3,10 +3,10 @@
 ## Plot Info
 
 ### DEGs
-Visualizing and identifying DEGs in each pairwise comparison. Generated in [volcano_p1.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/volcano_p1.v.p2.ipynb)
+Visualizing and identifying DEGs in each pairwise comparison. 
 >in all of these comparisons, the phase 1 oyster is set as the baseline, so DEGs are the phase 2 oyster relative to the phase 1 oyster (e.g., HC up- or down-regulated compared to H)
-- [combined_volcano.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/plots/combined_volcano.pdf): H vs. HC, W vs. WC, and B vs. BC volcano plots
-- [p1.p2_upset.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/plots/p1.p2_upset.pdf): upset plot to visualize unique/shared DEGs among the above pairwise comparisons
+- [combined_volcano.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/plots/combined_volcano.pdf): H vs. HC, W vs. WC, and B vs. BC volcano plots ([code](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/volcano_p1.v.p2.ipynb))
+- [p1.p2_upset.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/plots/p1.p2_upset.pdf): upset plot to visualize unique/shared DEGs among the above pairwise comparisons ([code](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/venn_p1.v.p2.ipynb))
 
 
 ### GOSlim Barplots
