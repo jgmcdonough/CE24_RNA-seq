@@ -13,3 +13,7 @@ See the [phase2_v_phase2 directory](https://github.com/jgmcdonough/CE24_RNA-seq/
 - [deseq_p1.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/deseq_p1.v.p2.ipynb) - using `DESeq2` to identify DEGs - outputs are located in [deseq_res_files](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/deseq_res_files)
 - [volcano_p1.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/volcano_p1.v.p2.ipynb) - using `ggplot` to make volcano plots from DESeq2 results
 - [venn_p1.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/venn_p1.v.p2.ipynb) - using `ggvenn` and `UpSetR` to identify unique/shared DEGs across pairwise comparisons
+- [gene_ontology_p1.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/gene_ontology_p1.v.p2.ipynb) - using workflow from [Roberts lab](https://robertslab.github.io/resources/bio-Annotation/) to match GOslim terms to DEGs
+
+## Plots
+Plots generated from the above notebooks can be found [here](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase2/plots)
