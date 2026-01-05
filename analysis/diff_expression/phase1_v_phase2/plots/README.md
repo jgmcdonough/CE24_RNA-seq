@@ -11,6 +11,9 @@ Visualizing and identifying DEGs in each pairwise comparison.
 
 ### GOSlim Barplots
 Visualizing the top 20 most abundant GOSlim terms for BP, MF, and CC for each pairwise comparison. Generated in [gene_ontology_p1.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/gene_ontology_p1.v.p2.ipynb)
+- **W vs. WC**: [topGO.w.wc_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/plots/topGO.w.wc_bar.pdf)
+- **H vs. HC**: [topGO.h.hc_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/plots/topGO.h.hc_bar.pdf)
+- **B vs. BC**: [topGO.b.bc_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase2/plots/topGO.b.bc_bar.pdf)
 
 
 ### ORA Barplots
