@@ -50,7 +50,7 @@ the oyster experienced both a repeated *and* a novel stress in later exposure
 Does the order of when stress is experienced matter? Maybe one stressor is an informative cue for a later environment? 
 - **WH vs. HW**
 
-### 7. Comparisons against total control oysters
+### 7. Comparisons against total control oysters (CC)
 
 #### A. Early stress expsosure
 Similar to [Phase 1 vs. Phase 1](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase1), but can check for "long-term" GE
