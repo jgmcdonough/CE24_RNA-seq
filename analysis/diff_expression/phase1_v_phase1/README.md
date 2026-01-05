@@ -16,3 +16,6 @@ Investigating the difference between each environmental stressor at a **single t
 - [gsea_p1.v.p1.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/gsea_p1.v.p1.ipynb) - using `gsea` and `enricher` from `clusterProfiler` to do GSEA and ORA analyses
 - [gene_ontology_p1.v.p1.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/gene_ontology_p1.v.p1.ipynb) - using workflow from [Roberts lab](https://robertslab.github.io/resources/bio-Annotation/) to match GOslim terms to DEGs
 - [kegg_p1.v.p1.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/kegg_p1.v.p1.ipynb) - using `enrichKEGG` from `clusterProfiler` to do KEGG enrichment analyses
+
+## Plots
+Plots generated from the above notebooks can be found [here](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase1/plots)
