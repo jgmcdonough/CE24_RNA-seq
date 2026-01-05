@@ -47,3 +47,7 @@ the oyster experienced both a repeated *and* a novel stress in later exposure
 ### 6. Order of Stressors
 Does the order of when stress is experienced matter? Maybe one stressor is an informative cue for a later environment? 
 - **WH vs. HW**
+
+## File Info
+- [deseq_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/deseq_p2.v.p2.ipynb) - using `DESeq2` to identify DEGs
+      - outputs are located in [deseq_res_files](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2/deseq_res_files)
