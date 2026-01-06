@@ -33,6 +33,7 @@ Investigating **multiple stressors** across **two timepoints** in oysters
 - HH vs. CH
 - BB vs. CB
 > semi-matched priming
+
     >in context of later single stress
 - CH vs. BH
 - CW vs. BW
@@ -45,7 +46,7 @@ Investigating **multiple stressors** across **two timepoints** in oysters
 - HH vs. HC
 - BB vs. BC
 
-### Interactions between stressors
+### Interactions Between Stressors
 #### 7. Effect of initial single/multiple stress on response in ...
 >continuation of priming
 
