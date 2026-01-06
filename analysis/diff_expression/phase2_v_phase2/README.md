@@ -28,17 +28,16 @@ Investigating **multiple stressors** across **two timepoints** in oysters
 - CC vs. BB
 
 #### 5. Effect of initial exposure on response in later exposure
->matched priming
+**A. matched priming**
 - WW vs. CW
 - HH vs. CH
 - BB vs. CB
-> semi-matched priming
 
-in context of later single stress
+**B. semi-matched priming: in context of later *single* stress**
 - CH vs. BH
 - CW vs. BW
 
-in context of later multiple stress
+**C. semi matched priming: in context of later *multiple* stress**
 - CB vs. WB
 - CB vs. HB
 
