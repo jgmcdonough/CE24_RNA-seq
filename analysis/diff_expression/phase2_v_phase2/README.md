@@ -6,64 +6,74 @@ Analysis of oysters that experienced both phase 1 and phase 2
 ## Comparison Info
 Investigating **multiple stressors** across **two timepoints** in oysters
 
-### 1. Priming vs. No Priming
-The effect of early exposures in the response to later exposures
-#### A. matched stressors
-- **HH vs. CH**
-- **WW vs. CW**
-- **BB vs. CB**
-#### B. semi-matched stressors
-the oyster experienced both a repeated *and* a novel stress in later exposure
-- **WB vs. CB**
-- **HB vs. CB**
+### Control Comparisons
+#### 1. Single exposure affects GE after a period of recovery
+- CC vs. WC
+- CC vs. HC
+- CC vs. BC
 
-### 2. Single vs. Multiple Stressor Priming ...
-#### A.  ...when later exposed to *single* stressors
-- **BH vs. HH**
-- **BW vs. WW**
-#### B. ...when later exposed to *multiple* stressors
-- **HB vs. BB**
-- **WB vs. BB**
+#### 2. Sinlge exposure only experienced later in life affects GE
+- CC vs. CW
+- CC vs. CH
+- CC vs. CB
 
-### 3. Timing of Stress Exposure
-- **CH vs. HC**
-- **CW vs. WC**
-- **CB vs. BC**
+#### 3. Effect of timing of initial stress exposure
+- CW vs. WC
+- CH vs. HC
+- CB vs. BC
 
-### 4. Effect of Early Exposure in Subsequent Response
-- **HH vs. HC**
-- **WW vs. WC**
-- **BB vs. BC**
+#### 4. No stress vs. most stress
+- CC vs. WW
+- CC vs. HH
+- CC vs. BB
 
-### 5. Shared/Unique Responses In...
-#### A. ...Different *Early* Stress Exposures
->similar to [p1 v. p1 analyses](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase1), but looking at this when oysters are older and returned to control conditions
-- **WC vs. HC**: single early stress 
-- **BC vs. HC**: multiple vs. single early stress
-- **BC vs. WC**: multiple vs. single early stress
-#### B. ...Different *Later* Stress Exposures
-- **CW vs. CH**: single early stress 
-- **CB vs. CH**: multiple vs. single early stress
-- **CB vs. CW**: multiple vs. single early stress
+#### 5. Effect of initial exposure on response in later exposure
+>matched priming
+- WW vs. CW
+- HH vs. CH
+- BB vs. CB
+> semi-matched priming
+    >in context of later single stress
+- CH vs. BH
+- CW vs. BW
+    >in context of later multiple stress
+- CB vs. WB
+- CB vs. HB
 
-### 6. Comparisons against total control oysters (CC)
+#### 6. Effect of initial exposure on subsequent response to stress
+- WW vs. WC
+- HH vs. HC
+- BB vs. BC
 
-#### A. Early stress expsosure
-Similar to [Phase 1 vs. Phase 1](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase1), but can check for "long-term" GE
-- **HC vs. CC**
-- **WC vs. CC**
-- **BC vs. CC**
+### Interactions between stressors
+#### 7. Effect of initial single/multiple stress on response in ...
+>continuation of priming
 
-#### B. Late stress exposure
-- **CH vs. CC**
-- **CW vs. CC**
-- **CB vs. CC**
+**A. ...later *single* stress**
+- BH vs. HH
+- BW vs. WW
 
-### 7. Order of Stressors
-Does the order of when stress is experienced matter? Maybe one stressor is an informative cue for a later environment? 
-- **WH vs. HW**
-- **WB vs. BW**
-- **HB vs. BH**
+**B. ...later *multiple* stressors**
+- HB vs. BB
+- WB vs. BB
+
+#### 8. Shared/unique responses among stressors with ...
+**A. different *early* stressors**
+>similar to [phase 1 vs. phase 1](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase1), can check for long-term trends/GE
+- WC vs. HC
+- BC vs. HC
+- BC vs. WC
+
+**B. different *late* stressors**
+- CW vs. CH
+- CB vs. CH
+- CW vs. CB
+
+#### 9. Effect of order of stresses on GE
+>Does the order of when stress is experienced matter? Maybe one stressor is an informative cue for a later environment?
+- WH vs. HW
+- WB vs. BW
+- HB vs. BH
 
 ## File Info
 - [deseq_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/deseq_p2.v.p2.ipynb) - using `DESeq2` to identify DEGs
