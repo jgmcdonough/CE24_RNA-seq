@@ -3,9 +3,10 @@ Analysis of oysters that only experienced phase 1 compared to those that additio
 
 ## Comparison Info
 Investigating how GE changes *across ontogeny*
-- **W vs. WC**
-- **H vs. HC**
-- **B vs. BC**
+- C vs. CC
+- W vs. WC
+- H vs. HC
+- B vs. BC
 
 See the [phase2_v_phase2 directory](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2) to further investigate how GE changes across multiple exposures at two timepoints
 
