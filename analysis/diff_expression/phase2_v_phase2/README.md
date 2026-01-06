@@ -34,10 +34,11 @@ Investigating **multiple stressors** across **two timepoints** in oysters
 - BB vs. CB
 > semi-matched priming
 
-    >in context of later single stress
+in context of later single stress
 - CH vs. BH
 - CW vs. BW
-    >in context of later multiple stress
+
+in context of later multiple stress
 - CB vs. WB
 - CB vs. HB
 
