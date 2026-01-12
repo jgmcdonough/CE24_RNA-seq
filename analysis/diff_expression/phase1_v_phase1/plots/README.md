@@ -9,6 +9,8 @@ Visualizing and identifying DEGs in each pairwise comparison. Generated in [volc
 - **[vs.other_volcano.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/vs.other_volcano.pdf)**: volcano plots for comparisons outside of those against control
 - **[all.comp_volcano.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/all.comp_volcano.pdf)**: grid of all volcano plots generated from comparing phase 1 oysters
 - **[all.comparisons_upset.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/all.comparisons_upset.pdf)**: UpSet plot visualizing overlap of DEGs in *all* pairwise comparisons (generated in [venn_p1.v.p1.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/venn_p1.v.p1.ipynb))
+    - [vs.cont_upset.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/vs.cont_upset.pdf): same as above, but only including comparisons with control conditions
+    - [vs.other_upset.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/vs.other_upset.pdf): same as above, but only including comparisons outside of those against control conditions
 
 ### GOSlim Barplots
 Visualizing the top 20 most abundant GOSlim terms for BP, MF, and CC for each pairwise comparison. Generated in [gene_ontology_p1.v.p1.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/gene_ontology_p1.v.p1.ipynb)
