@@ -7,6 +7,7 @@ Visualizing and identifying DEGs in each pairwise comparison. Generated in [volc
 - **[vs.control_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase1/plots/vs.control_bar.pdf)**: barplots for number of up- and down-regulated DEGs in comparisons with control 
 - **[vs.control_volcano.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/vs.control_volcano.pdf)**: volcano plots for comparisons with control
 - **[vs.other_volcano.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/vs.other_volcano.pdf)**: volcano plots for comparisons outside of those against control
+- **[all.comp_volcano.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/all.comp_volcano.pdf)**: grid of all volcano plots generated from comparing phase 1 oysters
 - **[all.comparisons_upset.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/all.comparisons_upset.pdf)**: UpSet plot visualizing overlap of DEGs in *all* pairwise comparisons (generated in [venn_p1.v.p1.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/venn_p1.v.p1.ipynb))
 
 ### GOSlim Barplots
