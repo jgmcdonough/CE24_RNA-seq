@@ -22,7 +22,17 @@ Visualizing the top 20 most abundant GOSlim terms for BP, MF, and CC for each pa
 - **warm vs. hypoxic**: [topGO.wh_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/topGO.wh_bar.pdf)
 
 ### ORA Barplots
-Functional groups/ontologies that are enriched more than by change in DEGs - separated into up- and down-regulated DEGs. Generated in [gsea_p1.v.p1.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/gsea_p1.v.p1.ipynb)
-- **both vs. control**: [ORA.bc_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/ORA.bc_bar.pdf)
-- **warm vs. control**: [ORA.wc_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/ORA.wc_bar.pdf)
-- **hypoxic vs. control**: [ORA.hc_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/ORA.hc_bar.pdf)
+Are there any gene sets that are over-represented in the identified differential expressed genes (DEGs) than would be expected by chance? Generated in [gsea_p1.v.p1.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/gsea_p1.v.p1.ipynb)
+#### All barplots:
+includes results from all pairwise comparisons
+- both vs. control: [ORA.bc_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/ORA.bc_bar.pdf)
+- warm vs. control: [ORA.wc_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/ORA.wc_bar.pdf)
+- hypoxic vs. control: [ORA.hc_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/ORA.hc_bar.pdf)
+- hypoxic vs. both: [ORA.hb_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/ORA.hb_bar.pdf)
+- warm vs. both: [ORA.wb_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/ORA.wb_bar.pdf)
+- warm vs. hypoxic: [ORA.wh_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/ORA.wh_bar.pdf)
+#### Directional barplots: 
+same as above, but separated into up- and down-regulated DEGs (and only for comparisons with control treatment). 
+- both vs. control: [ORA.bc.directional_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/ORA.bc.directional_bar.pdf)
+- warm vs. control: [ORA.wc.directional_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/ORA.wc.directional_bar.pdf)
+- hypoxic vs. control: [ORA.hc.directional_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/ORA.hc.directional_bar.pdf)
