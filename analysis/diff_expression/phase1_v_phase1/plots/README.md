@@ -36,3 +36,7 @@ same as above, but separated into up- and down-regulated DEGs (and only for comp
 - both vs. control: [ORA.bc.directional_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/ORA.bc.directional_bar.pdf)
 - warm vs. control: [ORA.wc.directional_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/ORA.wc.directional_bar.pdf)
 - hypoxic vs. control: [ORA.hc.directional_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/ORA.hc.directional_bar.pdf)
+
+### TPM for Targeted Genes
+transcript per million (TPM; controls for gene length and sequencing depth) for genes of interest
+- HSP70: [hsp70.tpm_boxplot](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/hsp70.tpm_boxplot.pdf)
