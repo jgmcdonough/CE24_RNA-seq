@@ -40,3 +40,6 @@ same as above, but separated into up- and down-regulated DEGs (and only for comp
 ### TPM for Targeted Genes
 transcript per million (TPM; controls for gene length and sequencing depth) for genes of interest
 - HSP70: [hsp70.tpm_boxplot](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/hsp70.tpm_boxplot.pdf)
+
+## Other Plots
+- [chitin.genes_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase1_v_phase1/plots/chitin.genes_bar.pdf) - DEGs that are associated with GO terms related to chitin (chitin synthase activity, chitinase activity, chitin binding)
