@@ -24,3 +24,4 @@ Comparing oysters that only experienced phase 1 to those that experienced phase 
 Comparing oysters that experienced both phase 1 and phase 2 - looking at the effect of an early environment on gene expression in a later evironment - ***two timepoints***
 - DESeq analysis [code](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/deseq_p2.v.p2.ipynb)
 - output CSVs in [deseq_res_files](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2/deseq_res_files)
+- visualizations in [plots](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/plots)
