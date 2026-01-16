@@ -1,6 +1,8 @@
 # Phase 2 vs. Phase 2
 Analysis of oysters that experienced both phase 1 and phase 2
 
+Jump to [File Info](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2#file-info)
+
 ## Comparison Info
 Investigating **multiple stressors** across **two timepoints** in oysters
 
@@ -77,5 +79,15 @@ Investigating **multiple stressors** across **two timepoints** in oysters
 ## File Info
 - [deseq_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/deseq_p2.v.p2.ipynb) - using `DESeq2` to identify DEGs
       - outputs are located in [deseq_res_files](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2/deseq_res_files)
+- [volcano_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/deseq_p2.v.p2.ipynb) - using `ggplot` to make volcano plots from DESeq results
+- [upset_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/upset_p2.v.p2.ipynb) - using `UpSetR` to identify unique/shared DEGs across pairwise comparisons
+- [gene_ontology_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/gene_ontology_p2.v.p2.ipynb) - using workflow from [Roberts Lab](https://robertslab.github.io/resources/bio-Annotation/) to match GOSlim terms to DEGs
+- [gsea_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/gsea_p2.v.p2.ipynb) - using `gsea` from `clusterProfiler` to identify enriched GO terms via gene set enrichment analysis
+- [ora_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/ora_p2.v.p2.ipynb) - using `enricher` from `clusterProfiler` to do over-represented analysis and identify enriched GO terms
+- [kegg_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/kegg_p2.v.p2.ipynb) - using `gseKEGG` to identify enriched pathways
+- [targetGenes_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/targetGenes_p2.v.p2.ipynb) - pulling out genes/pathways of interest and looking at DEGs and TPM
+
+## Plots
+Plots generated from the above notebooks can be found [here](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/plots)
 
   
