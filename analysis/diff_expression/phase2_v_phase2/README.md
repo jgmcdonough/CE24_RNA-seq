@@ -1,8 +1,6 @@
 # Phase 2 vs. Phase 2
 Analysis of oysters that experienced both phase 1 and phase 2
 
-(to jump to [File Info](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2#file-info))
-
 ## Comparison Info
 Investigating **multiple stressors** across **two timepoints** in oysters
 
@@ -79,3 +77,5 @@ Investigating **multiple stressors** across **two timepoints** in oysters
 ## File Info
 - [deseq_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/deseq_p2.v.p2.ipynb) - using `DESeq2` to identify DEGs
       - outputs are located in [deseq_res_files](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2/deseq_res_files)
+
+  
