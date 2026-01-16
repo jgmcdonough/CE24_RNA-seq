@@ -13,3 +13,7 @@ Shared/unique DEGs when comparing timing/repeated exposure to the same stressor 
 - Warming: [warming_upset.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2/plots/warming_upset.pdf)
 - Hypoxia: [hypoxia_upset.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2/plots/hypoxia_upset.pdf)
 - Both warming and hypoxia: [both_upset.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2/plots/both_upset.pdf)
+
+
+### Other Plots
+- [chitin.genes_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2/plots/chitin.genes_bar.pdf) - DEGs that are associated with GO terms related to **chitin** (chitin synthase activity, chitinase activity, chitin binding)
