@@ -17,3 +17,4 @@ Shared/unique DEGs when comparing timing/repeated exposure to the same stressor 
 
 ### Other Plots
 - [chitin.genes_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2/plots/chitin.genes_bar.pdf) - DEGs that are associated with GO terms related to **chitin** (chitin synthase activity, chitinase activity, chitin binding)
+- [chitin.genesDETAILED_bar.pdf](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2/plots/chitin.genesDETAILED_bar.pdf) - same as above, but bars are split and labeled for which treatment has the higher expression for those genes
