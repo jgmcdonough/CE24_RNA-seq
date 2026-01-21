@@ -85,6 +85,7 @@ Investigating **multiple stressors** across **two timepoints** in oysters
 - [gsea_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/gsea_p2.v.p2.ipynb) - using `gsea` from `clusterProfiler` to identify enriched GO terms via gene set enrichment analysis
 - [ora_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/ora_p2.v.p2.ipynb) - using `enricher` from `clusterProfiler` to do over-represented analysis and identify enriched GO terms
 - [kegg_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/kegg_p2.v.p2.ipynb) - using `gseKEGG` to identify enriched pathways
+- [wgcna_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/wgcna_p2.v.p2.ipynb) - weighted gene co-expression network analysis following [Gurr script](https://github.com/SamGurr/Pgenerosa_OA_TagSeq/blob/main/TagSeq/Analysis/Scripts/Day0_WGCNA_all.R) and using `WGCNA`
 - [targetGenes_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/targetGenes_p2.v.p2.ipynb) - pulling out genes/pathways of interest and looking at DEGs and TPM
 
 ## Plots
