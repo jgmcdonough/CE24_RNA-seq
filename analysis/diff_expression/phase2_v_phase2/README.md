@@ -7,12 +7,12 @@ Jump to [File Info](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analys
 Investigating **multiple stressors** across **two timepoints** in oysters
 
 ### Control Comparisons
-#### 1. Single exposure affects GE after a period of recovery
+#### 1. Effect of exposure after period of recovery
 - CC vs. WC
 - CC vs. HC
 - CC vs. BC
 
-#### 2. Sinlge exposure only experienced later in life affects GE
+#### 2. Effect of exposure only experienced later in life
 - CC vs. CW
 - CC vs. CH
 - CC vs. CB
