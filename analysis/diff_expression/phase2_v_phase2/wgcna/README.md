@@ -15,11 +15,11 @@ used to identify modules of highly correlated genes, relate them to sample trait
 1. build correlation matrix from *normalized* gene expression matrix
     - measures the relationship/connection between two variables
     - can be *signed* or *unsigned*
-        - **unsigned** = values are abs. values of correlation - make biological interpretation difficult bc you do not know regulation direction
-        - **signed** = sign of correlation values are considered - takes into account up- or down-regulation
+        - *unsigned* = values are abs. values of correlation - make biological interpretation difficult bc you do not know regulation direction
+        - **RECOMMENDED**: *signed* = sign of correlation values are considered - takes into account up- or down-regulation
 4. create weighted adjacency matrix - highlight the important connections and reduce noise by applying threshold
-    - **soft** threshold - weighted network - use correlation values and raise to a power term (stronger connections are emphasized, weaker are suppressed)
-    - **hard** threshold - unweighted network - sensitive to threshold bc results in loss of co-expr. information (doesn't tell you how strong/weak the connection is)
+    - **RECOMMENDED**: *soft* threshold - weighted network - use correlation values and raise to a power term (stronger connections are emphasized, weaker are suppressed)
+    - *hard* threshold - unweighted network - sensitive to threshold bc results in loss of co-expr. information (doesn't tell you how strong/weak the connection is)
 6. hierarchical clustering using proximity measure to identify modules
     - topological overlap measure (TOM) similarity matrix - if two genes have high similarity, it will have high TOM and low dissimilarity
     - then generate TOM dissimilarity matrix - distance of a gene from every other gene in the system
