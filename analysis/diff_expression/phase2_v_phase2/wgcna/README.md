@@ -11,27 +11,15 @@ used to identify modules of highly correlated genes, relate them to sample trait
     - [vst expression](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/deseq_rawLFC/deseq_vstCounts.csv) generated in [deseq_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/deseq_p2.v.p2.ipynb)
 - meta data - [treatment information](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/metaData/sample_metaData.csv) and [growth data](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/metaData/growth_phase2.1_weights.csv)
 
-### General workflow:
-1. input = *normalized* gene expression matrix
-2. find genes that are co-expressed (share similar expression profiles across samples)
-3. generate correlation matrix between all genes
-4. identify modules based on the correlation matrix (using a clustering approach)
-5. dwonstream analysis with identified modules:
-    - enrichment analysis
-    - correlate modules with phenotypes/traits
-    - identify driver genes
-    - regulatory network identification
-    - correlate similar modules
-
 ### Detailed workflow:
 1. build correlation matrix from *normalized* gene expression matrix
     - measures the relationship/connection between two variables
     - can be *signed* or *unsigned*
-        - unsigned = values are abs. values of correlation - make biological interpretation difficult bc you do not know regulation direction
-        - signed = sign of correlation values are considered - takes into account up- or down-regulation
+        - **unsigned** = values are abs. values of correlation - make biological interpretation difficult bc you do not know regulation direction
+        - **signed** = sign of correlation values are considered - takes into account up- or down-regulation
 4. create weighted adjacency matrix - highlight the important connections and reduce noise by applying threshold
-    - soft threshold - weighted network - use correlation values and raise to a power term (stronger connections are emphasized, weaker are suppressed)
-    - hard threshold - unweighted network - sensitive to threshold bc results in loss of co-expr. information (doesn't tell you how strong/weak the connection is)
+    - **soft** threshold - weighted network - use correlation values and raise to a power term (stronger connections are emphasized, weaker are suppressed)
+    - **hard** threshold - unweighted network - sensitive to threshold bc results in loss of co-expr. information (doesn't tell you how strong/weak the connection is)
 6. hierarchical clustering using proximity measure to identify modules
     - topological overlap measure (TOM) similarity matrix - if two genes have high similarity, it will have high TOM and low dissimilarity
     - then generate TOM dissimilarity matrix - distance of a gene from every other gene in the system
