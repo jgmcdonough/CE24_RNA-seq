@@ -85,7 +85,7 @@ Investigating **multiple stressors** across **two timepoints** in oysters
 
 #### [gene_ontology](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/gene_ontology) directory
 contains notebooks for gene ontology analysis:
-- [gene_ontology_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/gene_ontology/gene_ontology_p2.v.p2.ipynb) - using workflow from [Roberts Lab](https://robertslab.github.io/resources/bio-Annotation/) to match GOSlim terms to DEGs
+- [goSlim_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/gene_ontology/goSlim_p2.v.p2.ipynb) - using workflow from [Roberts Lab](https://robertslab.github.io/resources/bio-Annotation/) to match GOSlim terms to DEGs
 - [gsea_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/gene_ontology/gsea_p2.v.p2.ipynb) - using `gsea` from `clusterProfiler` to identify enriched GO terms via gene set enrichment analysis
 - [ora_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/gene_ontology/ora_p2.v.p2.ipynb) - using `enricher` from `clusterProfiler` to do over-represented analysis and identify enriched GO terms
 - [kegg_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/gene_ontology/kegg_p2.v.p2.ipynb) - using `gseKEGG` to identify enriched pathways
