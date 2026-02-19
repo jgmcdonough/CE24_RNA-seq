@@ -31,6 +31,10 @@ used to identify modules of highly correlated genes, relate them to sample trait
     - identify driver genes in the module correlated with the phenotype/trait of interest
         - look at intramodular connectivity (how well the node is connected within its assigned module) or module membership - look for genes with expression that is highly correlated with the module eigengene
      
+### Outputs
+- [p2.wgcna_metadata.csv](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/wgcna/p2.wgcna_metadata.csv) - metadata for module-trait relationships with treatment info and growth data
+- [p2.wgcna_ModuleEigengenes.csv](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/wgcna/p2.wgcna_ModuleEigengenes.csv) - module eigengenes generated from wgcna, to be used downstream or to skip running some of the wgcna code
+- [p2.wgcna_GeneInfo.csv](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/wgcna/p2.wgcna_GeneInfo.csv) - for every gene, the module membership (MM) and gene significance (GS) for every trait/treatment
 
 #### Resources used:
 - [Bioinformagician YouTube videos](https://www.youtube.com/watch?v=BzYfg1lO3jw)
