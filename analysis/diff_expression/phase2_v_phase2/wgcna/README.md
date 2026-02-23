@@ -6,6 +6,8 @@ used to identify modules of highly correlated genes, relate them to sample trait
 **Idea**: genes with similar expression patterns are functionally associated - part of the same complexes, involved in the same pathway, influence each other
 > gene regulatory network: gene 1 influences the expression of gene 2 which influences the expression of gene 3 ...
 
+## WGCNA analysis
+[wgcna_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/wgcna/wgcna_p2.v.p2.ipynb) 
 ### Inputs:
 - gene expression matrix - I'm using vst expression generated from `DESeq2`
     - [vst expression](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/deseq_rawLFC/deseq_vstCounts.csv) generated in [deseq_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/deseq_p2.v.p2.ipynb)
@@ -35,6 +37,9 @@ used to identify modules of highly correlated genes, relate them to sample trait
 - [p2.wgcna_metadata.csv](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/wgcna/p2.wgcna_metadata.csv) - metadata for module-trait relationships with treatment info and growth data
 - [p2.wgcna_ModuleEigengenes.csv](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/wgcna/p2.wgcna_ModuleEigengenes.csv) - module eigengenes generated from wgcna, to be used downstream or to skip running some of the wgcna code
 - [p2.wgcna_GeneInfo.csv](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/wgcna/p2.wgcna_GeneInfo.csv) - for every gene, the module membership (MM) and gene significance (GS) for every trait/treatment
+
+## Gene Ontology of Significantly Correlated Modules
+[GO_wgcna_p2.v.p2.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/diff_expression/phase2_v_phase2/wgcna/GO_wgcna_p2.v.p2.ipynb) - downstream analysis of WGCNA
 
 #### Resources used:
 - [Bioinformagician YouTube videos](https://www.youtube.com/watch?v=BzYfg1lO3jw)
