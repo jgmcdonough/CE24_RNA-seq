@@ -1,0 +1,24 @@
+#!/bin/bash
+#SBATCH --job-name=hisat2_build
+#SBATCH --mem=32G             # memory per node
+#SBATCH -p cpu
+#SBATCH -t 1:00:00
+#SBATCH --cpus-per-task=16     
+#SBATCH -o hisat2_build.log
+#SBATCH --mail-type=END,FAIL
+
+#-----------------modules-----------------#
+module load conda/latest
+
+conda activate hisat2-env
+
+#---------------change wd----------------#
+
+cd /scratch4/workspace/julia_mcdonough_student_uml_edu-novogene_dwnld/haplotig-masked
+
+#-----------------commands----------------#
+
+hisat2-build -p 16 \
+--exon /work/pi_sarah_gignouxwolfsohn_uml_edu/julia_mcdonough_student_uml_edu/ref_files/oyster.exon \
+--ss /work/pi_sarah_gignouxwolfsohn_uml_edu/julia_mcdonough_student_uml_edu/ref_files/oyster.ss \
+/work/pi_sarah_gignouxwolfsohn_uml_edu/julia_mcdonough_student_uml_edu/ref_files/genome/reference.masked.fasta oyster_index
