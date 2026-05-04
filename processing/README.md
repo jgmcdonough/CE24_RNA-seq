@@ -4,6 +4,8 @@ This directory contains scripts to process raw sequences prior to analysis and p
 
 Total RNA was sent to Novogene for library preparation (poly A enrichment) and sequenced on NovaSeq X Plus Series (PE150, 30M depth).
 
+Reference Genome: [GCF_002022765.2](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_002022765.2/) on NCBI (now suppressed due to new release)
+
 
 ### [processing_seqs.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/processing/processing_seqs.ipynb)
 - includes scripts to process sequences from raw sequences to counts matrix using [`trim-galore`](https://github.com/FelixKrueger/TrimGalore), [`fastQC`](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/), [`hisat2`](https://daehwankimlab.github.io/hisat2/), [`samtools`](https://www.htslib.org/doc/samtools-view.html), and [`featureCounts`](https://subread.sourceforge.net/featureCounts.html)
