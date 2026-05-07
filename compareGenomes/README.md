@@ -5,9 +5,9 @@ To determine which genome I should use for analysis, I am going to align my sequ
 
 ## [BUSCO](https://busco.ezlab.org/) analysis
 
-- reference.masked.fast = haplotig masked 2017 genome
-- GCF_053477285.1_ASM5347728v1_genomic.fna = new 2025 genome
-- GCF_002022765.2_C_virginica-3.0_genomic.fna = old 2017 genome
+- reference.masked.fast = **haplotig masked 2017 genome**
+- GCF_053477285.1_ASM5347728v1_genomic.fna = **new 2025 genome**
+- GCF_002022765.2_C_virginica-3.0_genomic.fna = **old 2017 genome**
 
 ![BUSCO plot](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/compareGenomes/busco_figure.png)
 
