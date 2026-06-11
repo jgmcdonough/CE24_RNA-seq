@@ -1,3 +1,4 @@
+# see [new_refGenome](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2/new_refGenome) directory for most recent analysis!
 # Phase 2 vs. Phase 2
 Analysis of oysters that experienced both phase 1 and phase 2
 
