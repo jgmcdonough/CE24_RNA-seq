@@ -1,0 +1,2 @@
+# Growth Analysis
+Includes [code](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/growth/growth_treatments.ipynb) and resulting [plots](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/growth/plots) for the genetic oysters (a subset of the [full growth dataset](https://github.com/GWLab-UML/CE_ORCC/tree/main/2024/growth)).
