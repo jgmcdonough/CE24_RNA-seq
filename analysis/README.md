@@ -15,3 +15,6 @@ Three aspects of analysis:
 
 ## [Alternative Splicing](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/alt_splicing)
 - identifying instances of alternative splicing among treatments
+
+## [Growth Analysis](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/growth)
+- plot growth of *only* genetics oysters
