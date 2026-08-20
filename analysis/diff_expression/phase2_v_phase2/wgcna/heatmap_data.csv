@@ -1,0 +1,511 @@
+"module","Trait","Cor","pvalue","label","sig","trait_type"
+"MEgrey60","Shell Growth",-0.18706800184752,0.0741707741733068,"-0.19
+(0.07)",FALSE,"Phase 2 Growth"
+"MEgrey60","Tissue Growth",-0.168146513817632,0.109115090092388,"-0.17
+(0.1)",FALSE,"Phase 2 Growth"
+"MEgrey60","Tissue:Shell Growth",0.1322680565813,0.208806191161129,"0.13
+(0.2)",FALSE,"Phase 2 Growth"
+"MEgrey60","Phase 1 Interaction",0.0311497693246821,0.768173759295949,"0.03
+(0.8)",FALSE,"Treatments"
+"MEgrey60","Phase 1 Temp",0.043933692060777,0.677529696873297,"0.04
+(0.7)",FALSE,"Treatments"
+"MEgrey60","Phase 1 DO",0.012551811586999,0.905472377927039,"0.01
+(0.9)",FALSE,"Treatments"
+"MEgrey60","Phase 2 Interaction",-0.019011779677371,0.857248699837613,"-0.02
+(0.9)",FALSE,"Treatments"
+"MEgrey60","Phase 2 Temp",-0.286153268291476,0.0056882079303017,"-0.29
+(0.006)",TRUE,"Treatments"
+"MEgrey60","Phase 2 DO",0.121689539688482,0.247866657651506,"0.12
+(0.2)",FALSE,"Treatments"
+"MEgrey60","P1_both",0.0279057464192394,0.791738095944073,"0.03
+(0.8)",FALSE,"Treatments"
+"MEgrey60","P1_control",-0.0377309986025871,0.721030387789252,"-0.04
+(0.7)",FALSE,"Treatments"
+"MEgrey60","P1_hypoxic",-0.0129992592729804,0.902119036225537,"-0.01
+(0.9)",FALSE,"Treatments"
+"MEgrey60","P1_warm",0.0229181844383956,0.828328053033761,"0.02
+(0.8)",FALSE,"Treatments"
+"MEgrey60","P2_both",-0.228477623306017,0.0284822259291808,"-0.23
+(0.03)",TRUE,"Treatments"
+"MEgrey60","P2_warm",-0.0970483081617838,0.357414866551885,"-0.10
+(0.4)",FALSE,"Treatments"
+"MEgrey60","P2_control",-0.0427379777564939,0.685838916198248,"-0.04
+(0.7)",FALSE,"Treatments"
+"MEgrey60","P2_hypoxic",0.377846372236629,0.000204598910987977,"0.38
+(0.0002)",TRUE,"Treatments"
+"MElightcyan","Shell Growth",0.249637421028813,0.0164028454705376,"0.25
+(0.02)",TRUE,"Phase 2 Growth"
+"MElightcyan","Tissue Growth",0.17503910196198,0.0951428123238014,"0.18
+(0.1)",FALSE,"Phase 2 Growth"
+"MElightcyan","Tissue:Shell Growth",0.125130577595165,0.234645132743515,"0.13
+(0.2)",FALSE,"Phase 2 Growth"
+"MElightcyan","Phase 1 Interaction",-0.0887519089888098,0.400179279218443,"-0.09
+(0.4)",FALSE,"Treatments"
+"MElightcyan","Phase 1 Temp",-0.0180625797520296,0.864306084468859,"-0.02
+(0.9)",FALSE,"Treatments"
+"MElightcyan","Phase 1 DO",-0.0893319137945404,0.397094827639306,"-0.09
+(0.4)",FALSE,"Treatments"
+"MElightcyan","Phase 2 Interaction",-0.31317151585572,0.00236879778838153,"-0.31
+(0.002)",TRUE,"Treatments"
+"MElightcyan","Phase 2 Temp",-0.461227010245482,3.70885059953561e-06,"-0.46
+(4e-06)",TRUE,"Treatments"
+"MElightcyan","Phase 2 DO",-0.119674773585201,0.255841617130342,"-0.12
+(0.3)",FALSE,"Treatments"
+"MElightcyan","P1_both",-0.123492752211309,0.240875597634712,"-0.12
+(0.2)",FALSE,"Treatments"
+"MElightcyan","P1_control",0.00233375135455885,0.982385315863214,"0.00
+(1)",FALSE,"Treatments"
+"MElightcyan","P1_hypoxic",0.0185231192096279,0.860880568348097,"0.02
+(0.9)",FALSE,"Treatments"
+"MElightcyan","P1_warm",0.0993941509787344,0.345856260112983,"0.10
+(0.3)",FALSE,"Treatments"
+"MElightcyan","P2_both",-0.347011780969932,0.000701831401137281,"-0.35
+(0.0007)",TRUE,"Treatments"
+"MElightcyan","P2_warm",-0.177676799470588,0.0901845191409028,"-0.18
+(0.09)",FALSE,"Treatments"
+"MElightcyan","P2_control",0.323188445652656,0.00167618862291204,"0.32
+(0.002)",TRUE,"Treatments"
+"MElightcyan","P2_hypoxic",0.216945321880624,0.0377809247293015,"0.22
+(0.04)",TRUE,"Treatments"
+"MEblue","Shell Growth",0.303841275292628,0.00323535244673442,"0.30
+(0.003)",TRUE,"Phase 2 Growth"
+"MEblue","Tissue Growth",0.240066360839793,0.0211682805570855,"0.24
+(0.02)",TRUE,"Phase 2 Growth"
+"MEblue","Tissue:Shell Growth",0.0324030841720937,0.759124604560174,"0.03
+(0.8)",FALSE,"Phase 2 Growth"
+"MEblue","Phase 1 Interaction",-0.026695334272355,0.800579850749459,"-0.03
+(0.8)",FALSE,"Treatments"
+"MEblue","Phase 1 Temp",-0.0590769551962119,0.575897211919916,"-0.06
+(0.6)",FALSE,"Treatments"
+"MEblue","Phase 1 DO",-4.14596882122078e-05,0.999687045653069,"-0.00
+(1)",FALSE,"Treatments"
+"MEblue","Phase 2 Interaction",-0.385581316229351,0.00014724401408069,"-0.39
+(0.0001)",TRUE,"Treatments"
+"MEblue","Phase 2 Temp",-0.343084038321055,0.000814026725666789,"-0.34
+(0.0008)",TRUE,"Treatments"
+"MEblue","Phase 2 DO",-0.259631712754799,0.0124450243574122,"-0.26
+(0.01)",TRUE,"Treatments"
+"MEblue","P1_both",-0.0743412503042443,0.481257002031594,"-0.07
+(0.5)",FALSE,"Treatments"
+"MEblue","P1_control",-0.00496809132946994,0.962512425253616,"-0.00
+(1)",FALSE,"Treatments"
+"MEblue","P1_hypoxic",0.0731842833003428,0.48812642291664,"0.07
+(0.5)",FALSE,"Treatments"
+"MEblue","P1_warm",0.00494631637785178,0.96267661369441,"0.00
+(1)",FALSE,"Treatments"
+"MEblue","P2_both",-0.13164510512048,0.210977107466299,"-0.13
+(0.2)",FALSE,"Treatments"
+"MEblue","P2_warm",-0.258644867148633,0.0127947909731523,"-0.26
+(0.01)",TRUE,"Treatments"
+"MEblue","P2_control",0.570595879667518,2.88318086293883e-09,"0.57
+(3e-09)",TRUE,"Treatments"
+"MEblue","P2_hypoxic",-0.168816994037524,0.107689595183367,"-0.17
+(0.1)",FALSE,"Treatments"
+"MEyellow","Shell Growth",0.251054669218381,0.0157826568645422,"0.25
+(0.02)",TRUE,"Phase 2 Growth"
+"MEyellow","Tissue Growth",0.137741529288495,0.190413369795347,"0.14
+(0.2)",FALSE,"Phase 2 Growth"
+"MEyellow","Tissue:Shell Growth",-0.0641356196760063,0.543597364140527,"-0.06
+(0.5)",FALSE,"Phase 2 Growth"
+"MEyellow","Phase 1 Interaction",-0.0410472473881255,0.697651909029161,"-0.04
+(0.7)",FALSE,"Treatments"
+"MEyellow","Phase 1 Temp",-0.0187184113793242,0.859428747976965,"-0.02
+(0.9)",FALSE,"Treatments"
+"MEyellow","Phase 1 DO",-0.0361319852206795,0.732396771149646,"-0.04
+(0.7)",FALSE,"Treatments"
+"MEyellow","Phase 2 Interaction",0.002816974159109,0.978738823763543,"0.00
+(1)",FALSE,"Treatments"
+"MEyellow","Phase 2 Temp",0.031157262709214,0.768119561959425,"0.03
+(0.8)",FALSE,"Treatments"
+"MEyellow","Phase 2 DO",-0.0124150223494773,0.906497861663353,"-0.01
+(0.9)",FALSE,"Treatments"
+"MEyellow","P1_both",-0.0867400247989851,0.410987639932966,"-0.09
+(0.4)",FALSE,"Treatments"
+"MEyellow","P1_control",-0.022120018695442,0.834219938296438,"-0.02
+(0.8)",FALSE,"Treatments"
+"MEyellow","P1_hypoxic",0.043734178392752,0.678913505498691,"0.04
+(0.7)",FALSE,"Treatments"
+"MEyellow","P1_warm",0.0629455964406412,0.551115360230121,"0.06
+(0.6)",FALSE,"Treatments"
+"MEyellow","P2_both",0.192275061605783,0.0663287936144942,"0.19
+(0.07)",FALSE,"Treatments"
+"MEyellow","P2_warm",-0.156830780203857,0.135448739372977,"-0.16
+(0.1)",FALSE,"Treatments"
+"MEyellow","P2_control",0.176000133689056,0.0933119973154033,"0.18
+(0.09)",FALSE,"Treatments"
+"MEyellow","P2_hypoxic",-0.212487783630014,0.041999016388251,"-0.21
+(0.04)",TRUE,"Treatments"
+"MEblack","Shell Growth",-0.303297641011395,0.00329365575102032,"-0.30
+(0.003)",TRUE,"Phase 2 Growth"
+"MEblack","Tissue Growth",-0.2083513381655,0.0462568546063556,"-0.21
+(0.05)",TRUE,"Phase 2 Growth"
+"MEblack","Tissue:Shell Growth",0.0202922247336563,0.847746327084449,"0.02
+(0.8)",FALSE,"Phase 2 Growth"
+"MEblack","Phase 1 Interaction",0.135680473402388,0.197196419514839,"0.14
+(0.2)",FALSE,"Treatments"
+"MEblack","Phase 1 Temp",0.0243730081945337,0.817613475204,"0.02
+(0.8)",FALSE,"Treatments"
+"MEblack","Phase 1 DO",0.138187726511775,0.188967425956138,"0.14
+(0.2)",FALSE,"Treatments"
+"MEblack","Phase 2 Interaction",0.506078528674762,2.65678453264822e-07,"0.51
+(3e-07)",TRUE,"Treatments"
+"MEblack","Phase 2 Temp",0.357756299268428,0.000463181864484105,"0.36
+(0.0005)",TRUE,"Treatments"
+"MEblack","Phase 2 DO",0.386997029263176,0.000138517151063686,"0.39
+(0.0001)",TRUE,"Treatments"
+"MEblack","P1_both",0.112955088831087,0.283697951501842,"0.11
+(0.3)",FALSE,"Treatments"
+"MEblack","P1_control",-0.0764013587375382,0.469154441279213,"-0.08
+(0.5)",FALSE,"Treatments"
+"MEblack","P1_hypoxic",0.0482578330533882,0.647807277360267,"0.05
+(0.6)",FALSE,"Treatments"
+"MEblack","P1_warm",-0.0819723197925518,0.437271284900773,"-0.08
+(0.4)",FALSE,"Treatments"
+"MEblack","P2_both",0.404712352546019,6.2970091327068e-05,"0.40
+(6e-05)",TRUE,"Treatments"
+"MEblack","P2_warm",0.00226867986771308,0.982876387100227,"0.00
+(1)",FALSE,"Treatments"
+"MEblack","P2_control",-0.455968945526468,4.93330392254368e-06,"-0.46
+(5e-06)",TRUE,"Treatments"
+"MEblack","P2_hypoxic",0.0370076672618406,0.726164765773212,"0.04
+(0.7)",FALSE,"Treatments"
+"MEmagenta","Shell Growth",0.0355200939268337,0.736761793912356,"0.04
+(0.7)",FALSE,"Phase 2 Growth"
+"MEmagenta","Tissue Growth",0.0458423783866328,0.664345837475469,"0.05
+(0.7)",FALSE,"Phase 2 Growth"
+"MEmagenta","Tissue:Shell Growth",-0.0248566286570703,0.814058980586084,"-0.02
+(0.8)",FALSE,"Phase 2 Growth"
+"MEmagenta","Phase 1 Interaction",0.133588647383496,0.204256816074203,"0.13
+(0.2)",FALSE,"Treatments"
+"MEmagenta","Phase 1 Temp",-0.00477695700543629,0.9639536772233,"-0.00
+(1)",FALSE,"Treatments"
+"MEmagenta","Phase 1 DO",0.15044774589242,0.152293988396463,"0.15
+(0.2)",FALSE,"Treatments"
+"MEmagenta","Phase 2 Interaction",0.107027504667538,0.309888470071012,"0.11
+(0.3)",FALSE,"Treatments"
+"MEmagenta","Phase 2 Temp",0.167889859574749,0.109664624447583,"0.17
+(0.1)",FALSE,"Treatments"
+"MEmagenta","Phase 2 DO",0.0357722164784825,0.734962217192658,"0.04
+(0.7)",FALSE,"Treatments"
+"MEmagenta","P1_both",0.0855543008213505,0.417436678508879,"0.09
+(0.4)",FALSE,"Treatments"
+"MEmagenta","P1_control",-0.0838871764898285,0.426602473861435,"-0.08
+(0.4)",FALSE,"Treatments"
+"MEmagenta","P1_hypoxic",0.0894031313158204,0.396717069003442,"0.09
+(0.4)",FALSE,"Treatments"
+"MEmagenta","P1_warm",-0.0885472418454021,0.401271064954742,"-0.09
+(0.4)",FALSE,"Treatments"
+"MEmagenta","P2_both",0.214531954178911,0.0400183847031497,"0.21
+(0.04)",TRUE,"Treatments"
+"MEmagenta","P2_warm",-0.0235416389245019,0.823732427811084,"-0.02
+(0.8)",FALSE,"Treatments"
+"MEmagenta","P2_control",-0.0176971512378168,0.867025949048626,"-0.02
+(0.9)",FALSE,"Treatments"
+"MEmagenta","P2_hypoxic",-0.178915320209763,0.0879280269916815,"-0.18
+(0.09)",FALSE,"Treatments"
+"MEpink","Shell Growth",-0.0257656275571433,0.807388287749892,"-0.03
+(0.8)",FALSE,"Phase 2 Growth"
+"MEpink","Tissue Growth",-0.0303925688631536,0.773656059669543,"-0.03
+(0.8)",FALSE,"Phase 2 Growth"
+"MEpink","Tissue:Shell Growth",-0.104799195363586,0.320127564028064,"-0.10
+(0.3)",FALSE,"Phase 2 Growth"
+"MEpink","Phase 1 Interaction",-0.0850466470874678,0.420215585780893,"-0.09
+(0.4)",FALSE,"Treatments"
+"MEpink","Phase 1 Temp",0.0944277922940131,0.37060604187507,"0.09
+(0.4)",FALSE,"Treatments"
+"MEpink","Phase 1 DO",-0.141483786511832,0.178532152936894,"-0.14
+(0.2)",FALSE,"Treatments"
+"MEpink","Phase 2 Interaction",0.206462366720439,0.0483168732778441,"0.21
+(0.05)",TRUE,"Treatments"
+"MEpink","Phase 2 Temp",0.166699450436695,0.112241633909851,"0.17
+(0.1)",FALSE,"Treatments"
+"MEpink","Phase 2 DO",0.147517396244367,0.160532924355822,"0.15
+(0.2)",FALSE,"Treatments"
+"MEpink","P1_both",-0.0678910213324529,0.520206670227594,"-0.07
+(0.5)",FALSE,"Treatments"
+"MEpink","P1_control",-0.0125811747053901,0.905252268177517,"-0.01
+(0.9)",FALSE,"Treatments"
+"MEpink","P1_hypoxic",-0.096454647894471,0.360377475387627,"-0.10
+(0.4)",FALSE,"Treatments"
+"MEpink","P1_warm",0.173471733291135,0.0981892928391351,"0.17
+(0.1)",FALSE,"Treatments"
+"MEpink","P2_both",0.30641419871176,0.00297176504806745,"0.31
+(0.003)",TRUE,"Treatments"
+"MEpink","P2_warm",-0.116778084462311,0.267611722641025,"-0.12
+(0.3)",FALSE,"Treatments"
+"MEpink","P2_control",-0.0527025361631244,0.617821412105017,"-0.05
+(0.6)",FALSE,"Treatments"
+"MEpink","P2_hypoxic",-0.142515870846856,0.175352924951481,"-0.14
+(0.2)",FALSE,"Treatments"
+"MEcyan","Shell Growth",0.0227818461837282,0.829333809500861,"0.02
+(0.8)",FALSE,"Phase 2 Growth"
+"MEcyan","Tissue Growth",-0.136630512719669,0.194048491479963,"-0.14
+(0.2)",FALSE,"Phase 2 Growth"
+"MEcyan","Tissue:Shell Growth",-0.221479031501041,0.0338602054038258,"-0.22
+(0.03)",TRUE,"Phase 2 Growth"
+"MEcyan","Phase 1 Interaction",0.00373727887480994,0.971795298108024,"0.00
+(1)",FALSE,"Treatments"
+"MEcyan","Phase 1 Temp",0.141240658203314,0.179287182504206,"0.14
+(0.2)",FALSE,"Treatments"
+"MEcyan","Phase 1 DO",-0.0664949287852258,0.528842358809614,"-0.07
+(0.5)",FALSE,"Treatments"
+"MEcyan","Phase 2 Interaction",0.102815822534955,0.329422005617633,"0.10
+(0.3)",FALSE,"Treatments"
+"MEcyan","Phase 2 Temp",0.0637239392438292,0.546192477648575,"0.06
+(0.5)",FALSE,"Treatments"
+"MEcyan","Phase 2 DO",0.0830980120499156,0.430981190235365,"0.08
+(0.4)",FALSE,"Treatments"
+"MEcyan","P1_both",0.0482290308177636,0.648003502475638,"0.05
+(0.6)",FALSE,"Treatments"
+"MEcyan","P1_control",-0.0388175823509797,0.713340803093276,"-0.04
+(0.7)",FALSE,"Treatments"
+"MEcyan","P1_hypoxic",-0.124273081717427,0.23789299809382,"-0.12
+(0.2)",FALSE,"Treatments"
+"MEcyan","P1_warm",0.113976538147094,0.279338252605241,"0.11
+(0.3)",FALSE,"Treatments"
+"MEcyan","P2_both",0.150608551705065,0.151851204975698,"0.15
+(0.2)",FALSE,"Treatments"
+"MEcyan","P2_warm",-0.0781166497149212,0.459205239512664,"-0.08
+(0.5)",FALSE,"Treatments"
+"MEcyan","P2_control",-0.0169903784330455,0.872290787693672,"-0.02
+(0.9)",FALSE,"Treatments"
+"MEcyan","P2_hypoxic",-0.0576354579148995,0.585261631329847,"-0.06
+(0.6)",FALSE,"Treatments"
+"MEred","Shell Growth",-0.212262817075491,0.0422218881716196,"-0.21
+(0.04)",TRUE,"Phase 2 Growth"
+"MEred","Tissue Growth",-0.258143289301906,0.0129758203861178,"-0.26
+(0.01)",TRUE,"Phase 2 Growth"
+"MEred","Tissue:Shell Growth",-0.143038153047608,0.173760005039476,"-0.14
+(0.2)",FALSE,"Phase 2 Growth"
+"MEred","Phase 1 Interaction",0.027892048756011,0.79183800899767,"0.03
+(0.8)",FALSE,"Treatments"
+"MEred","Phase 1 Temp",0.125490828912896,0.233289892946131,"0.13
+(0.2)",FALSE,"Treatments"
+"MEred","Phase 1 DO",-0.0318469863761909,0.763135808315718,"-0.03
+(0.8)",FALSE,"Treatments"
+"MEred","Phase 2 Interaction",0.209411633302978,0.0451327692457203,"0.21
+(0.05)",TRUE,"Treatments"
+"MEred","Phase 2 Temp",0.182319836601283,0.081955395547258,"0.18
+(0.08)",FALSE,"Treatments"
+"MEred","Phase 2 DO",0.14301134558803,0.173841506020263,"0.14
+(0.2)",FALSE,"Treatments"
+"MEred","P1_both",0.0376176824197948,0.721833923546532,"0.04
+(0.7)",FALSE,"Treatments"
+"MEred","P1_control",-0.0710828255355375,0.500735505579921,"-0.07
+(0.5)",FALSE,"Treatments"
+"MEred","P1_hypoxic",-0.0738215021718425,0.484336556809787,"-0.07
+(0.5)",FALSE,"Treatments"
+"MEred","P1_warm",0.106350600829046,0.312976104132115,"0.11
+(0.3)",FALSE,"Treatments"
+"MEred","P2_both",0.273307555333534,0.00838845317058195,"0.27
+(0.008)",TRUE,"Treatments"
+"MEred","P2_warm",-0.0659018004069948,0.532532810965578,"-0.07
+(0.5)",FALSE,"Treatments"
+"MEred","P2_control",-0.0997945176002523,0.343907204877395,"-0.10
+(0.3)",FALSE,"Treatments"
+"MEred","P2_hypoxic",-0.113716612606736,0.280443381356176,"-0.11
+(0.3)",FALSE,"Treatments"
+"MEbrown","Shell Growth",0.0280579641245332,0.790628021176676,"0.03
+(0.8)",FALSE,"Phase 2 Growth"
+"MEbrown","Tissue Growth",-0.00191355457550228,0.985556498287151,"-0.00
+(1)",FALSE,"Phase 2 Growth"
+"MEbrown","Tissue:Shell Growth",-0.00692495453669195,0.947764408259771,"-0.01
+(0.9)",FALSE,"Phase 2 Growth"
+"MEbrown","Phase 1 Interaction",-0.118871136094737,0.259070992196134,"-0.12
+(0.3)",FALSE,"Treatments"
+"MEbrown","Phase 1 Temp",0.0139506762185429,0.894994535889149,"0.01
+(0.9)",FALSE,"Treatments"
+"MEbrown","Phase 1 DO",-0.138724007023726,0.187240111644066,"-0.14
+(0.2)",FALSE,"Treatments"
+"MEbrown","Phase 2 Interaction",-0.0450056160609969,0.670113331689595,"-0.05
+(0.7)",FALSE,"Treatments"
+"MEbrown","Phase 2 Temp",-0.0598346742410378,0.57100288686883,"-0.06
+(0.6)",FALSE,"Treatments"
+"MEbrown","Phase 2 DO",-0.020419249180486,0.846804821928839,"-0.02
+(0.8)",FALSE,"Treatments"
+"MEbrown","P1_both",-0.072543397175363,0.491953904399758,"-0.07
+(0.5)",FALSE,"Treatments"
+"MEbrown","P1_control",0.0725768622207391,0.491753654425381,"0.07
+(0.5)",FALSE,"Treatments"
+"MEbrown","P1_hypoxic",-0.0886857155610453,0.400532192214859,"-0.09
+(0.4)",FALSE,"Treatments"
+"MEbrown","P1_warm",0.0863542223525283,0.413079570582012,"0.09
+(0.4)",FALSE,"Treatments"
+"MEbrown","P2_both",-0.254528563453594,0.0143475745294095,"-0.25
+(0.01)",TRUE,"Treatments"
+"MEbrown","P2_warm",0.186461061786808,0.0751314134229019,"0.19
+(0.08)",FALSE,"Treatments"
+"MEbrown","P2_control",-0.16801468106449,0.109397095295556,"-0.17
+(0.1)",FALSE,"Treatments"
+"MEbrown","P2_hypoxic",0.238085876612507,0.0222902450651822,"0.24
+(0.02)",TRUE,"Treatments"
+"MEgreen","Shell Growth",-0.187449200721042,0.073572491842875,"-0.19
+(0.07)",FALSE,"Phase 2 Growth"
+"MEgreen","Tissue Growth",-0.158958037783963,0.130161289720265,"-0.16
+(0.1)",FALSE,"Phase 2 Growth"
+"MEgreen","Tissue:Shell Growth",-0.0335241728345745,0.751057493898476,"-0.03
+(0.8)",FALSE,"Phase 2 Growth"
+"MEgreen","Phase 1 Interaction",0.0929819085550984,0.378009906510185,"0.09
+(0.4)",FALSE,"Treatments"
+"MEgreen","Phase 1 Temp",0.0683217456581891,0.517556880107427,"0.07
+(0.5)",FALSE,"Treatments"
+"MEgreen","Phase 1 DO",0.0688845754130016,0.514104766006908,"0.07
+(0.5)",FALSE,"Treatments"
+"MEgreen","Phase 2 Interaction",0.161534168933821,0.1239707130064,"0.16
+(0.1)",FALSE,"Treatments"
+"MEgreen","Phase 2 Temp",0.165657824615165,0.114534853429358,"0.17
+(0.1)",FALSE,"Treatments"
+"MEgreen","Phase 2 DO",0.0978159608903019,0.353606389382692,"0.10
+(0.4)",FALSE,"Treatments"
+"MEgreen","P1_both",0.117478292412212,0.264733586997419,"0.12
+(0.3)",FALSE,"Treatments"
+"MEgreen","P1_control",-0.0426877938117177,0.68618847940819,"-0.04
+(0.7)",FALSE,"Treatments"
+"MEgreen","P1_hypoxic",-0.0362033626828034,0.731888139641148,"-0.04
+(0.7)",FALSE,"Treatments"
+"MEgreen","P1_warm",-0.0363230872689368,0.731035249556597,"-0.04
+(0.7)",FALSE,"Treatments"
+"MEgreen","P2_both",-0.0957415915601828,0.36395588819769,"-0.10
+(0.4)",FALSE,"Treatments"
+"MEgreen","P2_warm",0.284192759651865,0.00604254731131001,"0.28
+(0.006)",TRUE,"Treatments"
+"MEgreen","P2_control",-0.407217252065677,5.61239179380579e-05,"-0.41
+(6e-05)",TRUE,"Treatments"
+"MEgreen","P2_hypoxic",0.213218672313955,0.0412816789320688,"0.21
+(0.04)",TRUE,"Treatments"
+"MEsalmon","Shell Growth",-0.057784424849088,0.584290680079818,"-0.06
+(0.6)",FALSE,"Phase 2 Growth"
+"MEsalmon","Tissue Growth",0.00419103738618363,0.968372516943529,"0.00
+(1)",FALSE,"Phase 2 Growth"
+"MEsalmon","Tissue:Shell Growth",-0.0288298875518295,0.785005102348663,"-0.03
+(0.8)",FALSE,"Phase 2 Growth"
+"MEsalmon","Phase 1 Interaction",0.0279758971530244,0.791226457476635,"0.03
+(0.8)",FALSE,"Treatments"
+"MEsalmon","Phase 1 Temp",-0.194452404354675,0.0632553473612644,"-0.19
+(0.06)",FALSE,"Treatments"
+"MEsalmon","Phase 1 DO",0.128255374825361,0.2230713603775,"0.13
+(0.2)",FALSE,"Treatments"
+"MEsalmon","Phase 2 Interaction",-0.0155695166997506,0.882891581738173,"-0.02
+(0.9)",FALSE,"Treatments"
+"MEsalmon","Phase 2 Temp",0.0140010689236048,0.894617406990053,"0.01
+(0.9)",FALSE,"Treatments"
+"MEsalmon","Phase 2 DO",-0.0243978725219815,0.817430637749006,"-0.02
+(0.8)",FALSE,"Treatments"
+"MEsalmon","P1_both",-0.0106803955702695,0.919514772670921,"-0.01
+(0.9)",FALSE,"Treatments"
+"MEsalmon","P1_control",0.0659516905856547,0.532221900697631,"0.07
+(0.5)",FALSE,"Treatments"
+"MEsalmon","P1_hypoxic",0.158582605411829,0.131082826664393,"0.16
+(0.1)",FALSE,"Treatments"
+"MEsalmon","P1_warm",-0.211042067524569,0.0434484904660788,"-0.21
+(0.04)",TRUE,"Treatments"
+"MEsalmon","P2_both",-0.0718942519770846,0.495846790981569,"-0.07
+(0.5)",FALSE,"Treatments"
+"MEsalmon","P2_warm",0.0878217688288539,0.405155198965921,"0.09
+(0.4)",FALSE,"Treatments"
+"MEsalmon","P2_control",-0.0618080598344826,0.558348444276894,"-0.06
+(0.6)",FALSE,"Treatments"
+"MEsalmon","P2_hypoxic",0.0454116868137985,0.667312021599954,"0.05
+(0.7)",FALSE,"Treatments"
+"MEturquoise","Shell Growth",-0.319997186240732,0.00187381965248561,"-0.32
+(0.002)",TRUE,"Phase 2 Growth"
+"MEturquoise","Tissue Growth",-0.301971019943441,0.00343990080692205,"-0.30
+(0.003)",TRUE,"Phase 2 Growth"
+"MEturquoise","Tissue:Shell Growth",-0.194967513773531,0.0625454309064825,"-0.19
+(0.06)",FALSE,"Phase 2 Growth"
+"MEturquoise","Phase 1 Interaction",-0.0360835128894786,0.732742247990578,"-0.04
+(0.7)",FALSE,"Treatments"
+"MEturquoise","Phase 1 Temp",0.0570653849688475,0.588984097207518,"0.06
+(0.6)",FALSE,"Treatments"
+"MEturquoise","Phase 1 DO",-0.0685314439279913,0.516269319396586,"-0.07
+(0.5)",FALSE,"Treatments"
+"MEturquoise","Phase 2 Interaction",0.100142642011855,0.342218089726435,"0.10
+(0.3)",FALSE,"Treatments"
+"MEturquoise","Phase 2 Temp",0.356035315570415,0.000495550112097373,"0.36
+(0.0005)",TRUE,"Treatments"
+"MEturquoise","Phase 2 DO",-0.0659076090504674,0.532496607470795,"-0.07
+(0.5)",FALSE,"Treatments"
+"MEturquoise","P1_both",0.0306748656339444,0.771610853851795,"0.03
+(0.8)",FALSE,"Treatments"
+"MEturquoise","P1_control",0.0434383875943579,0.680967042219929,"0.04
+(0.7)",FALSE,"Treatments"
+"MEturquoise","P1_hypoxic",-0.109331818340705,0.299526345200178,"-0.11
+(0.3)",FALSE,"Treatments"
+"MEturquoise","P1_warm",0.035180908993802,0.739185035771731,"0.04
+(0.7)",FALSE,"Treatments"
+"MEturquoise","P2_both",0.226660532229803,0.0298038203101876,"0.23
+(0.03)",TRUE,"Treatments"
+"MEturquoise","P2_warm",0.178362721317095,0.0889292266644856,"0.18
+(0.09)",FALSE,"Treatments"
+"MEturquoise","P2_control",-0.106357016679885,0.312946745652349,"-0.11
+(0.3)",FALSE,"Treatments"
+"MEturquoise","P2_hypoxic",-0.310588851845021,0.00258486185598439,"-0.31
+(0.003)",TRUE,"Treatments"
+"MEmidnightblue","Shell Growth",-0.205391745060245,0.0495176979761972,"-0.21
+(0.05)",TRUE,"Phase 2 Growth"
+"MEmidnightblue","Tissue Growth",-0.158419950747962,0.131483620072687,"-0.16
+(0.1)",FALSE,"Phase 2 Growth"
+"MEmidnightblue","Tissue:Shell Growth",-0.000980054226870558,0.99260226184149,"-0.00
+(1)",FALSE,"Phase 2 Growth"
+"MEmidnightblue","Phase 1 Interaction",-0.010219937095781,0.922973833322252,"-0.01
+(0.9)",FALSE,"Treatments"
+"MEmidnightblue","Phase 1 Temp",0.0708904594806877,0.50189815272638,"0.07
+(0.5)",FALSE,"Treatments"
+"MEmidnightblue","Phase 1 DO",-0.0467805485031382,0.657902551056258,"-0.05
+(0.7)",FALSE,"Treatments"
+"MEmidnightblue","Phase 2 Interaction",0.420652273157887,2.97966388372342e-05,"0.42
+(3e-05)",TRUE,"Treatments"
+"MEmidnightblue","Phase 2 Temp",0.244027324277107,0.0190688268112412,"0.24
+(0.02)",TRUE,"Treatments"
+"MEmidnightblue","Phase 2 DO",0.348316343406927,0.000667815412369418,"0.35
+(0.0007)",TRUE,"Treatments"
+"MEmidnightblue","P1_both",0.0199201001144708,0.850505739738376,"0.02
+(0.9)",FALSE,"Treatments"
+"MEmidnightblue","P1_control",-0.00822958267680467,0.937941460376893,"-0.01
+(0.9)",FALSE,"Treatments"
+"MEmidnightblue","P1_hypoxic",-0.0736276690514979,0.485487718792543,"-0.07
+(0.5)",FALSE,"Treatments"
+"MEmidnightblue","P1_warm",0.0613703338518168,0.561143784088973,"0.06
+(0.6)",FALSE,"Treatments"
+"MEmidnightblue","P2_both",0.265758305740132,0.0104542273240888,"0.27
+(0.01)",TRUE,"Treatments"
+"MEmidnightblue","P2_warm",0.0118454501533202,0.910769468659334,"0.01
+(0.9)",FALSE,"Treatments"
+"MEmidnightblue","P2_control",-0.420486569217563,3.0035199666354e-05,"-0.42
+(3e-05)",TRUE,"Treatments"
+"MEmidnightblue","P2_hypoxic",0.134711028941406,0.200446364199879,"0.13
+(0.2)",FALSE,"Treatments"
+"MEpurple","Shell Growth",-0.159880379159909,0.127918305046826,"-0.16
+(0.1)",FALSE,"Phase 2 Growth"
+"MEpurple","Tissue Growth",-0.0240619491022557,0.819901639963291,"-0.02
+(0.8)",FALSE,"Phase 2 Growth"
+"MEpurple","Tissue:Shell Growth",0.113959406302306,0.279411002541214,"0.11
+(0.3)",FALSE,"Phase 2 Growth"
+"MEpurple","Phase 1 Interaction",-0.0262979992559367,0.803487827768908,"-0.03
+(0.8)",FALSE,"Treatments"
+"MEpurple","Phase 1 Temp",-0.233332873472613,0.0251920760214953,"-0.23
+(0.03)",TRUE,"Treatments"
+"MEpurple","Phase 1 DO",0.0875474681937893,0.406629523317837,"0.09
+(0.4)",FALSE,"Treatments"
+"MEpurple","Phase 2 Interaction",-0.00022002353490266,0.998339175293156,"-0.00
+(1)",FALSE,"Treatments"
+"MEpurple","Phase 2 Temp",0.0577745877484374,0.584354774563034,"0.06
+(0.6)",FALSE,"Treatments"
+"MEpurple","Phase 2 DO",-0.0291059245624454,0.782997025374224,"-0.03
+(0.8)",FALSE,"Treatments"
+"MEpurple","P1_both",-0.00878645353041936,0.933751347850185,"-0.01
+(0.9)",FALSE,"Treatments"
+"MEpurple","P1_control",0.159707008576694,0.128337643174321,"0.16
+(0.1)",FALSE,"Treatments"
+"MEpurple","P1_hypoxic",0.10972258604371,0.297791932108649,"0.11
+(0.3)",FALSE,"Treatments"
+"MEpurple","P1_warm",-0.257153863186298,0.0133394642353385,"-0.26
+(0.01)",TRUE,"Treatments"
+"MEpurple","P2_both",0.0485025094854355,0.646141306522843,"0.05
+(0.6)",FALSE,"Treatments"
+"MEpurple","P2_warm",0.0172214523769234,0.870568865489176,"0.02
+(0.9)",FALSE,"Treatments"
+"MEpurple","P2_control",0.0163892332754624,0.876773183720334,"0.02
+(0.9)",FALSE,"Treatments"
+"MEpurple","P2_hypoxic",-0.0840479025533881,0.425713814242963,"-0.08
+(0.4)",FALSE,"Treatments"
