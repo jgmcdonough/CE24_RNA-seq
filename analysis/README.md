@@ -18,3 +18,6 @@ Three aspects of analysis:
 
 ## [Growth Analysis](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/growth)
 - plot growth of *only* genetics oysters
+
+## [Perkinsus Infection](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/perkinsus)
+- identifying low lying *Perkinsus marinus* infections in these oysters
