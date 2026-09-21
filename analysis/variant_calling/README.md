@@ -5,3 +5,6 @@ These oysters came from the same hatchery with unknown familiar history. To bett
 
 #### [variant_calling.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/variant_calling/variant_calling.ipynb)
 Contains scripts used in the GATK pipeline
+
+#### [relatedness.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/variant_calling/relatedness.ipynb)
+Visualizes the output from the code notebook above to investigate relatedness between samples
