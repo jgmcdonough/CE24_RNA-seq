@@ -1,7 +1,5 @@
 # Analysis
 
-Three aspects of analysis:
-
 ## [Variant Calling](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/variant_calling)
 - identifying sample relatedness through variant calling in gene-coding regions, using the [GATK4 workflow](https://gatk.broadinstitute.org/hc/en-us/articles/360035531192-RNAseq-short-variant-discovery-SNPs-Indels)
 
