@@ -13,6 +13,9 @@ Three aspects of analysis:
 - [**Phase 1 vs. Phase 2**](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase1_v_phase2)
 - [**Phase 2 vs. Phase 2**](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/diff_expression/phase2_v_phase2)
 
+## [Methylation Toolkit Genes](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/methylation_toolkit)
+- identify genes involved in methylation reading/writing/erasing/etc., visualize relative expression in oyster samples
+
 ## [Alternative Splicing](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/alt_splicing)
 - identifying instances of alternative splicing among treatments
 
