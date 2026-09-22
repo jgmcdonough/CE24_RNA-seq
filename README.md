@@ -27,8 +27,7 @@ also see [sample_metaData.csv](https://github.com/jgmcdonough/CE24_RNA-seq/blob/
     - [qc_outputs](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/processing/qc_outputs): directory containing outputs from processing_seqs.ipynb and novogene
   
 
-- ### [analysis](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis)
-contains code and outputs for various analyses, organized into 6 folders:
+- ### [analysis](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis): code and outputs for various analyses, organized into 6 folders
     - alternative splicing
     - differential expression
     - growth
