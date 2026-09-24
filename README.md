@@ -35,4 +35,6 @@ also see [sample_metaData.csv](https://github.com/jgmcdonough/CE24_RNA-seq/blob/
     - perkinsus
     - variant calling
 
+- ### [compareGenomes](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/compareGenomes): compare the new and old genome releases
+    - a new *C. virginica* reference genome was released in November 2025 - directory includes comparisons of the old (2017) genome, haplotig-masked genome, and new (2025) genome
 
