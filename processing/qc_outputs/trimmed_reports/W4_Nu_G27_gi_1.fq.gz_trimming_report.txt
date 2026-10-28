@@ -1,0 +1,206 @@
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: /scratch4/workspace/julia_mcdonough_student_uml_edu-novogene_dwnld/01.RawData/W4_Nu_G27_gi//W4_Nu_G27_gi_1.fq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.10
+Cutadapt version: 2.6
+Python version: could not detect
+Number of cores used for trimming: 4
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Using Illumina adapter for trimming (count: 1717). Second best hit was Nextera (count: 13)
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Running FastQC on the data once trimming has completed
+Output file will be GZIP compressed
+
+
+This is cutadapt 2.6 with Python 3.7.12
+Command line parameters: -j 4 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC /scratch4/workspace/julia_mcdonough_student_uml_edu-novogene_dwnld/01.RawData/W4_Nu_G27_gi//W4_Nu_G27_gi_1.fq.gz
+Processing reads on 4 cores in single-end mode ...
+Finished in 432.79 s (9 us/read; 6.56 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              47,342,401
+Reads with adapters:                16,841,417 (35.6%)
+Reads written (passing filters):    47,342,401 (100.0%)
+
+Total basepairs processed: 7,101,360,150 bp
+Quality-trimmed:               7,153,993 bp (0.1%)
+Total written (filtered):  7,068,672,111 bp (99.5%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 16841417 times.
+
+No. of allowed errors:
+0-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 33.2%
+  C: 27.1%
+  G: 19.6%
+  T: 20.1%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	12441421	11835600.2	0	12441421
+2	3015596	2958900.1	0	3015596
+3	977157	739725.0	0	977157
+4	227544	184931.3	0	227544
+5	55099	46232.8	0	55099
+6	11621	11558.2	0	11621
+7	7307	2889.6	0	7307
+8	6113	722.4	0	6113
+9	6253	180.6	0	5384 869
+10	6579	45.1	1	4874 1705
+11	5156	11.3	1	4539 617
+12	4474	2.8	1	4208 266
+13	4081	0.7	1	3918 163
+14	3700	0.7	1	3556 144
+15	3695	0.7	1	3534 161
+16	3455	0.7	1	3315 140
+17	3272	0.7	1	3156 116
+18	3088	0.7	1	2962 126
+19	2825	0.7	1	2691 134
+20	2855	0.7	1	2715 140
+21	2585	0.7	1	2455 130
+22	2414	0.7	1	2317 97
+23	2253	0.7	1	2148 105
+24	2221	0.7	1	2114 107
+25	2035	0.7	1	1965 70
+26	1910	0.7	1	1815 95
+27	1846	0.7	1	1748 98
+28	1780	0.7	1	1695 85
+29	1658	0.7	1	1571 87
+30	1529	0.7	1	1439 90
+31	1454	0.7	1	1386 68
+32	1344	0.7	1	1257 87
+33	1290	0.7	1	1187 103
+34	1288	0.7	1	1202 86
+35	1160	0.7	1	1062 98
+36	1109	0.7	1	1002 107
+37	1075	0.7	1	977 98
+38	1017	0.7	1	938 79
+39	920	0.7	1	843 77
+40	834	0.7	1	779 55
+41	827	0.7	1	755 72
+42	755	0.7	1	703 52
+43	778	0.7	1	700 78
+44	706	0.7	1	641 65
+45	684	0.7	1	611 73
+46	914	0.7	1	836 78
+47	661	0.7	1	580 81
+48	977	0.7	1	903 74
+49	266	0.7	1	183 83
+50	2834	0.7	1	2768 66
+51	503	0.7	1	459 44
+52	562	0.7	1	522 40
+53	202	0.7	1	150 52
+54	868	0.7	1	829 39
+55	341	0.7	1	307 34
+56	46	0.7	1	29 17
+57	61	0.7	1	40 21
+58	65	0.7	1	37 28
+59	50	0.7	1	19 31
+60	73	0.7	1	40 33
+61	185	0.7	1	152 33
+62	88	0.7	1	47 41
+63	99	0.7	1	79 20
+64	46	0.7	1	16 30
+65	44	0.7	1	18 26
+66	74	0.7	1	51 23
+67	216	0.7	1	185 31
+68	75	0.7	1	42 33
+69	41	0.7	1	12 29
+70	58	0.7	1	11 47
+71	73	0.7	1	42 31
+72	84	0.7	1	56 28
+73	50	0.7	1	29 21
+74	74	0.7	1	25 49
+75	54	0.7	1	27 27
+76	118	0.7	1	72 46
+77	122	0.7	1	91 31
+78	142	0.7	1	112 30
+79	123	0.7	1	103 20
+80	115	0.7	1	86 29
+81	112	0.7	1	88 24
+82	134	0.7	1	100 34
+83	102	0.7	1	78 24
+84	112	0.7	1	68 44
+85	113	0.7	1	77 36
+86	109	0.7	1	73 36
+87	104	0.7	1	80 24
+88	85	0.7	1	64 21
+89	101	0.7	1	70 31
+90	77	0.7	1	60 17
+91	84	0.7	1	58 26
+92	82	0.7	1	53 29
+93	93	0.7	1	66 27
+94	82	0.7	1	51 31
+95	63	0.7	1	40 23
+96	63	0.7	1	47 16
+97	71	0.7	1	50 21
+98	81	0.7	1	49 32
+99	70	0.7	1	44 26
+100	85	0.7	1	53 32
+101	67	0.7	1	40 27
+102	62	0.7	1	38 24
+103	70	0.7	1	42 28
+104	45	0.7	1	27 18
+105	48	0.7	1	31 17
+106	51	0.7	1	35 16
+107	57	0.7	1	36 21
+108	62	0.7	1	30 32
+109	56	0.7	1	32 24
+110	49	0.7	1	38 11
+111	55	0.7	1	32 23
+112	81	0.7	1	30 51
+113	54	0.7	1	30 24
+114	42	0.7	1	22 20
+115	79	0.7	1	32 47
+116	71	0.7	1	25 46
+117	43	0.7	1	22 21
+118	48	0.7	1	25 23
+119	50	0.7	1	32 18
+120	40	0.7	1	21 19
+121	34	0.7	1	23 11
+122	44	0.7	1	25 19
+123	34	0.7	1	16 18
+124	57	0.7	1	30 27
+125	46	0.7	1	32 14
+126	54	0.7	1	33 21
+127	46	0.7	1	25 21
+128	40	0.7	1	25 15
+129	47	0.7	1	29 18
+130	42	0.7	1	32 10
+131	35	0.7	1	23 12
+132	40	0.7	1	30 10
+133	53	0.7	1	39 14
+134	37	0.7	1	28 9
+135	42	0.7	1	31 11
+136	49	0.7	1	31 18
+137	40	0.7	1	22 18
+138	48	0.7	1	37 11
+139	52	0.7	1	36 16
+140	42	0.7	1	19 23
+141	51	0.7	1	33 18
+142	36	0.7	1	23 13
+143	40	0.7	1	28 12
+144	24	0.7	1	15 9
+145	59	0.7	1	39 20
+146	33	0.7	1	23 10
+147	75	0.7	1	40 35
+148	27	0.7	1	16 11
+149	26	0.7	1	8 18
+150	144	0.7	1	13 131
+
+RUN STATISTICS FOR INPUT FILE: /scratch4/workspace/julia_mcdonough_student_uml_edu-novogene_dwnld/01.RawData/W4_Nu_G27_gi//W4_Nu_G27_gi_1.fq.gz
+=============================================
+47342401 sequences processed in total
+
