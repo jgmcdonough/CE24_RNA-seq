@@ -1,0 +1,393 @@
+Vial_num,linear_corr_d15n,wt_percent_n,n_notes,linear_corr_d13c,wt_percent_c,c_notes,n_exclude,c_exclude,Year,Phase_1_treat,Phase_1_rep,Phase_1_rep_R,Phase_2_treat,Phase_2_rep,Phase_2_rep_R,Tag_color,Tag_num,Tissue_type,Sample_Name,Notes,Phase_1_DO,Phase_1_temp,Phase_2.1_DO,Phase_2.1_temp
+1,13.4,0.2,NA,-9.5,17.4,NA,NA,NA,2024,Warm,6,Warm6,Warm,6,Warm6,G,72,S,2024_Warm06_Warm06_G72_S,May have bee tag in sample,Norm,Warm,Norm,Warm
+2,11.9,0.2,NA,-7.4,15.9,NA,NA,NA,2024,Hyp,5,Hyp5,Warm,6,Warm6,B,69,S,2024_Hyp05_Warm06_B69_S,NA,Hyp,Ambient,Norm,Warm
+3,9.6,0.3,NA,-10.2,18.1,NA,NA,NA,2024,Both,6,Both6,Warm,6,Warm6,O,72,S,2024_Both06_Warm06_O72_S,NA,Hyp,Warm,Norm,Warm
+4,12.6,10,NA,-24,39.3,NA,NA,NA,2024,Warm,6,Warm6,Warm,6,Warm6,G,72,T,2024_Warm06_Warm06_G72_T,NA,Norm,Warm,Norm,Warm
+5,12.5,10.1,NA,-23.8,41.6,NA,NA,NA,2024,Hyp,5,Hyp5,Warm,6,Warm6,B,69,T,2024_Hyp05_Warm06_B69_T,NA,Hyp,Ambient,Norm,Warm
+6,12.4,8.8,NA,-23.6,39.2,NA,NA,NA,2024,Both,6,Both6,Warm,6,Warm6,O,72,T,2024_Both06_Warm06_O72_T,NA,Hyp,Warm,Norm,Warm
+7,12.7,7,NA,-25.7,49.1,NA,NA,NA,2024,Both,3,Both3,Warm,6,Warm6,O,66,T,2024_Both03_Warm06_O66_T,NA,Hyp,Warm,Norm,Warm
+8,12.2,6.8,NA,-26.2,54.9,NA,NA,NA,2024,Cont,2,Cont2,Warm,6,Warm6,W,63,T,2024_Cont02_Warm06_W63_T,NA,Norm,Ambient,Norm,Warm
+9,12.5,7.3,NA,-26.2,52.8,NA,NA,NA,2024,Warm,5,Warm5,Warm,6,Warm6,G,69,T,2024_Warm05_Warm06_G69_T,NA,Norm,Warm,Norm,Warm
+10,11.6,0.2,NA,-8.6,16.8,NA,NA,NA,2024,Both,3,Both3,Warm,6,Warm6,O,66,S,2024_Both03_Warm06_O66_S,NA,Hyp,Warm,Norm,Warm
+11,10.9,0.2,NA,-7.3,15.8,NA,NA,NA,2024,Cont,2,Cont2,Warm,6,Warm6,W,63,S,2024_Cont02_Warm06_W63_S,NA,Norm,Ambient,Norm,Warm
+12,11.7,0.2,NA,-8.8,16.9,NA,NA,NA,2024,Warm,5,Warm5,Warm,6,Warm6,G,69,S,2024_Warm05_Warm06_G69_S,NA,Norm,Warm,Norm,Warm
+13,12.4,7.6,NA,-25.5,48.7,NA,NA,NA,2024,Cont,4,Cont4,Warm,6,Warm6,W,67,T,2024_Cont04_Warm06_W67_T,NA,Norm,Ambient,Norm,Warm
+14,10.2,5.6,small peak - error on δ15N will be higher,-26.8,59.6,NA,NA,NA,2024,Hyp,1,Hyp1,Warm,6,Warm6,B,61,T,2024_Hyp01_Warm06_B61_T,NA,Hyp,Ambient,Norm,Warm
+15,11.8,0.3,NA,-8.4,16.4,NA,NA,NA,2024,Cont,4,Cont4,Warm,6,Warm6,W,67,S,2024_Cont04_Warm06_W67_S,NA,Norm,Ambient,Norm,Warm
+16,10.8,0.2,NA,-8.7,16.9,NA,NA,NA,2024,Hyp,1,Hyp1,Warm,6,Warm6,B,61,S,2024_Hyp01_Warm06_B61_S,NA,Hyp,Ambient,Norm,Warm
+17,11.8,7.1,NA,-25.6,47.4,NA,NA,NA,2024,Both,3,Both3,Both,6,Both6,O,65,T,2024_Both03_Both06_O65_T,NA,Hyp,Warm,Hyp,Warm
+18,11.9,7,small peak - error on δ15N will be higher,-26,49.9,NA,NA,NA,2024,Warm,4,Warm4,Both,6,Both6,G,67,T,2024_Warm04_Both06_G67_T,NA,Norm,Warm,Hyp,Warm
+19,11.9,7.9,NA,-25.9,50.6,NA,NA,NA,2024,Warm,3,Warm3,Both,6,Both6,G,65,T,2024_Warm03_Both06_G65_T,NA,Norm,Warm,Hyp,Warm
+20,11.4,0.2,NA,-9,17.1,NA,NA,NA,2024,Warm,3,Warm3,Both,6,Both6,G,65,S,2024_Warm03_Both06_G65_S,NA,Norm,Warm,Hyp,Warm
+21,8.4,0.3,NA,-7,15.5,NA,NA,NA,2024,Both,3,Both3,Both,6,Both6,O,65,S,2024_Both03_Both06_O65_S,NA,Hyp,Warm,Hyp,Warm
+22,10.2,0.2,small peak - error on δ15N will be higher,-7.7,16.2,NA,NA,NA,2024,Warm,4,Warm4,Both,6,Both6,G,67,S,2024_Warm04_Both06_G67_S,NA,Norm,Warm,Hyp,Warm
+23,12.2,9.5,NA,-24.1,41.4,NA,NA,NA,2024,Cont,1,Cont1,Both,6,Both6,W,62,T,2024_Cont01_Both06_W62_T,NA,Norm,Ambient,Hyp,Warm
+24,12.5,9.3,NA,-24.4,42.1,NA,NA,NA,2024,Both,1,Both1,Both,6,Both6,O,62,T,2024_Both01_Both06_O62_T,NA,Hyp,Warm,Hyp,Warm
+25,8.8,4.3,very small peak - δ15N data unusable,-26.1,40.3,small peak - error on δ13C will be higher,Y,NA,2024,Cont,5,Cont5,Both,6,Both6,W,69,T,2024_Cont05_Both06_W69_T,NA,Norm,Ambient,Hyp,Warm
+26,10.2,0.1,small peak - error on δ15N will be higher,-10,17.9,NA,NA,NA,2024,Both,1,Both1,Both,6,Both6,O,62,S,2024_Both01_Both06_O62_S,NA,Hyp,Warm,Hyp,Warm
+27,13,0.2,NA,-7.9,16.1,NA,NA,NA,2024,Cont,5,Cont5,Both,6,Both6,W,69,S,2024_Cont05_Both06_W69_S,NA,Norm,Ambient,Hyp,Warm
+28,11.7,0.2,NA,-11.1,18.9,NA,NA,NA,2024,Cont,1,Cont1,Both,6,Both6,W,62,S,2024_Cont01_Both06_W62_S,NA,Norm,Ambient,Hyp,Warm
+29,12.5,8.8,NA,-24.2,39.9,NA,NA,NA,2024,Cont,5,Cont5,Both,3,Both3,W,34,T,2024_Cont05_Both03_W34_T,NA,Norm,Ambient,Hyp,Warm
+30,12.1,9.1,NA,-25.1,45.2,NA,NA,NA,2024,Hyp,1,Hyp1,Both,3,Both3,B,25,T,2024_Hyp01_Both03_B25_T,NA,Hyp,Ambient,Hyp,Warm
+31,12,9,NA,-25.3,46.9,NA,NA,NA,2024,Hyp,2,Hyp2,Both,6,Both6,B,64,T,2024_Hyp02_Both06_B64_T,NA,Hyp,Ambient,Hyp,Warm
+32,12.1,6.9,small peak - error on δ15N will be higher,-26.7,57.1,NA,NA,NA,2024,Both,2,Both2,Both,3,Both3,O,27,T,2024_Both02_Both03_O27_T,NA,Hyp,Warm,Hyp,Warm
+33,12.4,6.8,NA,-26.1,51.4,NA,NA,NA,2024,Warm,2,Warm2,Both,3,Both3,G,28,T,2024_Warm02_Both03_G28_T,NA,Norm,Warm,Hyp,Warm
+34,12.3,7,NA,-25.8,48.7,NA,NA,NA,2024,Cont,4,Cont4,Both,3,Both3,W,31,T,2024_Cont04_Both03_W31_T,NA,Norm,Ambient,Hyp,Warm
+35,12,5.5,small peak - error on δ15N will be higher,-24.8,37.7,NA,NA,NA,2024,Hyp,3,Hyp3,Both,3,Both3,B,30,T,2024_Hyp03_Both03_B30_T,NA,Hyp,Ambient,Hyp,Warm
+36,12.2,8.5,NA,-24.6,44.2,NA,NA,NA,2024,Warm,1,Warm1,Both,3,Both3,G,26,T,2024_Warm01_Both03_G26_T,NA,Norm,Warm,Hyp,Warm
+37,9.9,4,very small peak - δ15N data unusable,-27.5,62.2,NA,Y,NA,2024,Both,1,Both1,Both,3,Both3,O,25,T,2024_Both01_Both03_O25_T,NA,Hyp,Warm,Hyp,Warm
+38,11,0.2,NA,-10,17.8,NA,NA,NA,2024,Both,1,Both1,Both,3,Both3,O,25,S,2024_Both01_Both03_O25_S,NA,Hyp,Warm,Hyp,Warm
+39,11.4,0.2,NA,-10.1,17.7,NA,NA,NA,2024,Both,2,Both2,Both,3,Both3,O,27,S,2024_Both02_Both03_O27_S,NA,Hyp,Warm,Hyp,Warm
+40,10.8,0.2,NA,-8.6,16.7,NA,NA,NA,2024,Warm,2,Warm2,Both,3,Both3,G,28,S,2024_Warm02_Both03_G28_S,NA,Norm,Warm,Hyp,Warm
+41,12.2,0.2,NA,-9.4,17.3,NA,NA,NA,2024,Cont,4,Cont4,Both,3,Both3,W,31,S,2024_Cont04_Both03_W31_S,NA,Norm,Ambient,Hyp,Warm
+42,11.1,0.2,NA,-10.2,17.9,NA,NA,NA,2024,Warm,1,Warm1,Both,3,Both3,G,26,S,2024_Warm01_Both03_G26_S,NA,Norm,Warm,Hyp,Warm
+43,10.5,0.2,NA,-7.9,16.1,NA,NA,NA,2024,Hyp,3,Hyp3,Both,3,Both3,B,30,S,2024_Hyp03_Both03_B30_S,NA,Hyp,Ambient,Hyp,Warm
+44,12.5,0.3,NA,-9.4,16.1,NA,NA,NA,2024,Cont,5,Cont5,Both,3,Both3,W,34,S,2024_Cont05_Both03_W34_S,NA,Norm,Ambient,Hyp,Warm
+45,11.9,0.2,NA,-9.5,16.2,NA,NA,NA,2024,Hyp,1,Hyp1,Both,3,Both3,B,25,S,2024_Hyp01_Both03_B25_S,NA,Hyp,Ambient,Hyp,Warm
+46,10.2,0.2,NA,-8.9,16,NA,NA,NA,2024,Hyp,5,Hyp5,Both,6,Both6,B,70,S,2024_Hyp05_Both06_B70_S,NA,Hyp,Ambient,Hyp,Warm
+47,11.8,9,NA,-24.7,43.9,NA,NA,NA,2024,Hyp,5,Hyp5,Both,6,Both6,B,70,T,2024_Hyp05_Both06_B70_T,NA,Hyp,Ambient,Hyp,Warm
+48,12.4,8.1,NA,-25.8,48.9,NA,NA,NA,2024,Hyp,4,Hyp4,Cont,6,Cont6,B,68,T,2024_Hyp04_Cont06_B68_T,NA,Hyp,Ambient,Norm,Ambient
+49,12.1,9.1,NA,-24.6,41.7,NA,NA,NA,2024,Cont,2,Cont2,Cont,6,Cont6,W,63,T,2024_Cont02_Cont06_W63_T,NA,Norm,Ambient,Norm,Ambient
+50,11.1,0.2,NA,-9.5,16.4,NA,NA,NA,2024,Hyp,2,Hyp2,Both,6,Both6,B,64,S,2024_Hyp02_Both06_B64_S,NA,Hyp,Ambient,Hyp,Warm
+51,12.5,0.2,NA,-7.7,15.3,NA,NA,NA,2024,Hyp,4,Hyp4,Cont,6,Cont6,B,68,S,2024_Hyp04_Cont06_B68_S,NA,Hyp,Ambient,Norm,Ambient
+52,11.9,0.1,NA,-8.9,16.5,NA,NA,NA,2024,Both,2,Both2,Cont,6,Cont6,O,63,S,2024_Both02_Cont06_O63_S,NA,Hyp,Warm,Norm,Ambient
+53,11.4,5.2,small peak - error on δ15N will be higher,-25.4,56.6,NA,NA,NA,2024,Cont,6,Cont6,Cont,6,Cont6,W,72,T,2024_Cont06_Cont06_W72_T,NA,Norm,Ambient,Norm,Ambient
+54,11.4,5.9,small peak - error on δ15N will be higher,-24.4,45,NA,NA,NA,2024,Warm,4,Warm4,Cont,6,Cont6,G,67,T,2024_Warm04_Cont06_G67_T,NA,Norm,Warm,Norm,Ambient
+55,12.1,9.2,NA,-24,39,NA,NA,NA,2024,Warm,2,Warm2,Cont,6,Cont6,G,63,T,2024_Warm02_Cont06_G63_T,NA,Norm,Warm,Norm,Ambient
+56,11,0.1,NA,-8,15.7,NA,NA,NA,2024,Cont,6,Cont6,Cont,6,Cont6,W,72,S,2024_Cont06_Cont06_W72_S,NA,Norm,Ambient,Norm,Ambient
+57,11.5,0.2,NA,-9.2,16.5,NA,NA,NA,2024,Warm,4,Warm4,Cont,6,Cont6,G,67,S,2024_Warm04_Cont06_G67_S,NA,Norm,Warm,Norm,Ambient
+58,11.4,0.2,NA,-10.1,17.5,NA,NA,NA,2024,Hyp,3,Hyp3,Cont,6,Cont6,B,66,S,2024_Hyp03_Cont06_B66_S,NA,Hyp,Ambient,Norm,Ambient
+59,12.2,8.9,NA,-24.6,43.9,NA,NA,NA,2024,Both,4,Both4,Cont,6,Cont6,O,67,T,2024_Both04_Cont06_O67_T,NA,Hyp,Warm,Norm,Ambient
+60,11.1,4.3,small peak - error on δ15N will be higher,-25.7,59.2,NA,NA,NA,2024,Hyp,3,Hyp3,Cont,6,Cont6,B,66,T,2024_Hyp03_Cont06_B66_T,NA,Hyp,Ambient,Norm,Ambient
+61,11.4,5.9,small peak - error on δ15N will be higher,-25.3,54.5,NA,NA,NA,2024,Both,2,Both2,Cont,6,Cont6,O,63,T,2024_Both02_Cont06_O63_T,NA,Hyp,Warm,Norm,Ambient
+62,8,0.2,NA,-9.5,17,NA,NA,NA,2024,Cont,2,Cont2,Cont,6,Cont6,W,63,S,2024_Cont02_Cont06_W63_S,NA,Norm,Ambient,Norm,Ambient
+63,10.8,0.2,NA,-9.3,16.7,NA,NA,NA,2024,Warm,2,Warm2,Cont,6,Cont6,G,63,S,2024_Warm02_Cont06_G63_S,NA,Norm,Warm,Norm,Ambient
+64,11.5,0.2,NA,-6.6,14.7,NA,NA,NA,2024,Both,4,Both4,Cont,6,Cont6,O,67,S,2024_Both04_Cont06_O67_S,NA,Hyp,Warm,Norm,Ambient
+65,12.4,9.6,NA,-24.1,40.7,NA,NA,NA,2024,Both,4,Both4,Both,5,Both5,O,56,T,2024_Both04_Both05_O56_T,NA,Hyp,Warm,Hyp,Warm
+66,12.3,10.2,NA,-24.1,41,NA,NA,NA,2024,Cont,2,Cont2,Both,5,Both5,W,52,T,2024_Cont02_Both05_W52_T,NA,Norm,Ambient,Hyp,Warm
+67,12.1,10.1,NA,-24.4,41.4,NA,NA,NA,2024,Hyp,5,Hyp5,Both,5,Both5,B,58,T,2024_Hyp05_Both05_B58_T,NA,Hyp,Ambient,Hyp,Warm
+68,11,0.2,NA,-9.3,16.6,NA,NA,NA,2024,Both,4,Both4,Both,5,Both5,O,56,S,2024_Both04_Both05_O56_S,NA,Hyp,Warm,Hyp,Warm
+69,11.3,0.2,NA,-8.8,16.1,NA,NA,NA,2024,Hyp,5,Hyp5,Both,5,Both5,B,58,S,2024_Hyp05_Both05_B58_S,NA,Hyp,Ambient,Hyp,Warm
+70,11.6,0.2,NA,-9,16.4,NA,NA,NA,2024,Cont,2,Cont2,Both,5,Both5,W,52,S,2024_Cont02_Both05_W52_S,NA,Norm,Ambient,Hyp,Warm
+71,11.2,0.2,NA,-8.5,15.9,NA,NA,NA,2024,Warm,6,Warm6,Both,5,Both5,G,60,S,2024_Warm06_Both05_G60_S,NA,Norm,Warm,Hyp,Warm
+72,13.3,0.2,NA,-9.9,17.1,NA,NA,NA,2024,Hyp,1,Hyp1,Both,5,Both5,B,49,S,2024_Hyp01_Both05_B49_S,NA,Hyp,Ambient,Hyp,Warm
+73,10.4,0.2,NA,-9.1,16.6,NA,NA,NA,2024,Cont,3,Cont3,Both,5,Both5,W,54,S,2024_Cont03_Both05_W54_S,NA,Norm,Ambient,Hyp,Warm
+74,12.7,9.1,NA,-24,40.9,NA,NA,NA,2024,Cont,3,Cont3,Both,5,Both5,W,54,T,2024_Cont03_Both05_W54_T,NA,Norm,Ambient,Hyp,Warm
+75,12.9,10.2,NA,-24.1,43.4,NA,NA,NA,2024,Hyp,1,Hyp1,Both,5,Both5,B,49,T,2024_Hyp01_Both05_B49_T,NA,Hyp,Ambient,Hyp,Warm
+76,12.1,9.5,NA,-24.5,41,NA,NA,NA,2024,Warm,6,Warm6,Both,5,Both5,G,60,T,2024_Warm06_Both05_G60_T,NA,Norm,Warm,Hyp,Warm
+77,12.4,9.7,NA,-23.6,40.1,NA,NA,NA,2024,Cont,6,Cont6,Both,1,Both1,W,12,T,2024_Cont06_Both01_W12_T,"2/12 SC When I tried to homogenize the tissue samples, they are clumping in the tube.: not yet dry and homogenizer tubes put into the drying oven. 2/14 SC rehomogenized and all set now.",Norm,Ambient,Hyp,Warm
+78,11.9,7.8,NA,-24,38.8,NA,NA,NA,2024,Cont,2,Cont2,Both,1,Both1,W,3,T,2024_Cont02_Both01_W3_T,"2/12 SC When I tried to homogenize the tissue samples, they are clumping in the tube: not yet dry and homogenizer tubes put into the drying oven. 2/14 SC rehomogenized and all set now.",Norm,Ambient,Hyp,Warm
+79,12,8.3,NA,-24.7,44.3,NA,NA,NA,2024,Warm,4,Warm4,Both,1,Both1,G,7,T,2024_Warm04_Both01_G7_T,"2/12 SC When I tried to homogenize the tissue samples, they are clumping in the tube.: not yet dry and homogenizer tubes put into the drying oven. 2/14 SC rehomogenized and all set now.",Norm,Warm,Hyp,Warm
+80,11.7,0.2,NA,-7.4,15.1,NA,NA,NA,2024,Cont,6,Cont6,Both,1,Both1,W,12,S,2024_Cont06_Both01_W12_S,NA,Norm,Ambient,Hyp,Warm
+81,11.6,0.2,NA,-7.7,15.4,NA,NA,NA,2024,Cont,2,Cont2,Both,1,Both1,W,3,S,2024_Cont02_Both01_W3_S,NA,Norm,Ambient,Hyp,Warm
+82,11.2,0.1,small peak - error on δ15N will be higher,-11.4,18.7,NA,NA,NA,2024,Warm,4,Warm4,Both,1,Both1,G,7,S,2024_Warm04_Both01_G7_S,NA,Norm,Warm,Hyp,Warm
+83,10.6,0.2,NA,-8.9,16.3,NA,NA,NA,2024,Warm,5,Warm5,Both,5,Both5,G,57,S,2024_Warm05_Both05_G57_S,2/5/25 SKM found to be a double during processing,Norm,Warm,Hyp,Warm
+84,11.7,0.2,NA,-7.8,15.4,NA,NA,NA,2024,Warm,5,Warm5,Both,1,Both1,G,10,S,2024_Warm05_Both01_G10_S,NA,Norm,Warm,Hyp,Warm
+85,12.5,0.3,NA,-9.3,16.3,NA,NA,NA,2024,Both,5,Both5,Both,5,Both5,O,57,S,2024_Both05_Both05_O57_S,NA,Hyp,Warm,Hyp,Warm
+86,11,0.2,NA,-6.9,14.6,NA,NA,NA,2024,Cont,3,Cont3,Both,2,Both2,W,18,S,2024_Cont03_Both02_W18_S,NA,Norm,Ambient,Hyp,Warm
+87,10.5,0.2,NA,-8.8,16.2,NA,NA,NA,2024,Warm,3,Warm3,Both,2,Both2,G,18,S,2024_Warm03_Both02_G18_S,NA,Norm,Warm,Hyp,Warm
+88,11.9,0.2,NA,-9.5,16.7,NA,NA,NA,2024,Hyp,6,Hyp6,Both,2,Both2,B,24,S,2024_Hyp06_Both02_B24_S,NA,Hyp,Ambient,Hyp,Warm
+89,12.1,8.2,NA,-24.4,44.6,NA,NA,NA,2024,Cont,3,Cont3,Both,2,Both2,W,18,T,2024_Cont03_Both02_W18_T,"2/14 SC When I tried to homogenize the tissue samples, they are clumping in the tube.: not yet dry and homogenizer tubes put into the drying oven. 2/19 SC rehomogenized and all set now.",Norm,Ambient,Hyp,Warm
+90,12.3,7.2,NA,-24.5,47.3,NA,NA,NA,2024,Warm,3,Warm3,Both,2,Both2,G,18,T,2024_Warm03_Both02_G18_T,"2/14 SC When I tried to homogenize the tissue samples, they are clumping in the tube.: not yet dry and homogenizer tubes put into the drying oven. 2/19 SC rehomogenized and all set now.",Norm,Warm,Hyp,Warm
+91,12.5,8.6,NA,-24.1,41.8,NA,NA,NA,2024,Hyp,6,Hyp6,Both,2,Both2,B,24,T,2024_Hyp06_Both02_B24_T,"2/14 SC When I tried to homogenize the tissue samples, they are clumping in the tube.: not yet dry and homogenizer tubes put into the drying oven. 2/19 SC rehomogenized and all set now.",Hyp,Ambient,Hyp,Warm
+92,11.4,0.2,NA,-9.9,17,NA,NA,NA,2024,Both,5,Both5,Both,2,Both2,O,21,S,2024_Both05_Both02_O21_S,2/12 SC had a dead shell attached to the top. Was once a double but no tissue found when dissecting.,Hyp,Warm,Hyp,Warm
+93,12.4,8.9,NA,-23.8,37.9,NA,NA,NA,2024,Warm,5,Warm5,Both,5,Both5,G,57,T,2024_Warm05_Both05_G57_T,"2/5/25 SKM found to be a double during processing. SC 2/19 When I tried to homogenize the tissue samples, they are clumping in the tube.: not yet dry and homogenizer tubes put into the drying oven. 2/21 SC rehomogenized and all set now.",Norm,Warm,Hyp,Warm
+94,11.4,5.6,small peak - error on δ15N will be higher,-24.3,40.7,NA,NA,NA,2024,Warm,5,Warm5,Both,1,Both1,G,10,T,2024_Warm05_Both01_G10_T,"2/19 SC When I tried to homogenize the tissue samples, they are clumping in the tube.: not yet dry and homogenizer tubes put into the drying oven. 2/21 SC rehomogenized and all set now.",Norm,Warm,Hyp,Warm
+95,12.7,8.8,NA,-23.3,38.1,NA,NA,NA,2024,Both,5,Both5,Both,2,Both2,O,21,T,2024_Both05_Both02_O21_T,2/12 SC had a dead shell attached to the top. Was once a double but no tissue found when dissecting.,Hyp,Warm,Hyp,Warm
+96,12.8,0.2,NA,-6,14.1,NA,NA,NA,2024,Hyp,4,Hyp4,Both,2,Both2,B,20,S,2024_Hyp04_Both02_B20_S,NA,Hyp,Ambient,Hyp,Warm
+97,3.3,0.4,NA,-9.2,16.9,NA,NA,NA,2024,Cont,1,Cont1,Both,2,Both2,W,14,S,2024_Cont01_Both02_W14_S,NA,Norm,Ambient,Hyp,Warm
+98,11.7,0.2,NA,-9.1,16.2,NA,NA,NA,2024,Warm,6,Warm6,Both,2,Both2,G,23,S,2024_Warm06_Both02_G23_S,NA,Norm,Warm,Hyp,Warm
+99,10.2,0.2,NA,-9.1,17.5,NA,NA,NA,2024,Hyp,6,Hyp6,Both,4,Both4,B,48,S,2024_Hyp06_Both04_B48_S,NA,Hyp,Ambient,Hyp,Warm
+100,10,0.2,NA,-9.3,17.3,NA,Y,Y,2024,Both,6,Both6,Both,2,Both2,O,24,S,2024_Both06_Both02_O24_S,NA,Hyp,Warm,Hyp,Warm
+101,12.4,9.5,NA,-24.5,44.9,NA,NA,NA,2024,Both,5,Both5,Both,5,Both5,O,57,T,2024_Both05_Both05_O57_T,NA,Hyp,Warm,Hyp,Warm
+102,12.4,7.1,NA,-25.6,50.9,NA,NA,NA,2024,Hyp,6,Hyp6,Both,4,Both4,B,48,T,2024_Hyp06_Both04_B48_T,NA,Hyp,Ambient,Hyp,Warm
+103,12.6,8.3,NA,-25.3,49.5,NA,NA,NA,2024,Warm,6,Warm6,Both,2,Both2,G,23,T,2024_Warm06_Both02_G23_T,NA,Norm,Warm,Hyp,Warm
+104,11.8,7.2,NA,-23.8,38.2,NA,Y,Y,2024,Both,6,Both6,Both,2,Both2,O,24,T,2024_Both06_Both02_O24_T,NA,Hyp,Warm,Hyp,Warm
+105,12.6,8,NA,-24.5,43.3,NA,NA,NA,2024,Hyp,4,Hyp4,Both,2,Both2,B,20,T,2024_Hyp04_Both02_B20_T,NA,Hyp,Ambient,Hyp,Warm
+106,10.1,0.2,small peak - error on δ15N will be higher,-8,16.5,NA,NA,NA,2024,Both,4,Both4,Both,1,Both1,O,8,S,2024_Both04_Both01_O8_S,NA,Hyp,Warm,Hyp,Warm
+107,9.5,0.1,small peak - error on δ15N will be higher,-9.5,17.6,NA,NA,NA,2024,Both,3,Both3,Both,1,Both1,O,5,S,2024_Both03_Both01_O5_S,NA,Hyp,Warm,Hyp,Warm
+108,13.1,0.2,NA,-8.2,16.7,NA,NA,NA,2024,Hyp,2,Hyp2,Both,1,Both1,B,3,S,2024_Hyp02_Both01_B3_S,NA,Hyp,Ambient,Hyp,Warm
+109,9.9,0.2,NA,-7,15.6,NA,NA,NA,2024,Hyp,3,Hyp3,Both,1,Both1,B,6,S,2024_Hyp03_Both01_B6_S,NA,Hyp,Ambient,Hyp,Warm
+110,12.3,5.7,small peak - error on δ15N will be higher,-25.3,50.2,NA,NA,NA,2024,Both,3,Both3,Both,1,Both1,O,5,T,2024_Both03_Both01_O5_T,NA,Hyp,Warm,Hyp,Warm
+111,11.7,6.5,NA,-25.1,48.5,NA,NA,NA,2024,Both,4,Both4,Both,1,Both1,O,8,T,2024_Both04_Both01_O8_T,NA,Hyp,Warm,Hyp,Warm
+112,12.4,7.6,NA,-25.8,52,NA,NA,NA,2024,Hyp,3,Hyp3,Both,1,Both1,B,6,T,2024_Hyp03_Both01_B6_T,NA,Hyp,Ambient,Hyp,Warm
+113,12.2,6.4,NA,-25.9,52.6,NA,NA,NA,2024,Hyp,2,Hyp2,Both,1,Both1,B,3,T,2024_Hyp02_Both01_B3_T,NA,Hyp,Ambient,Hyp,Warm
+114,10.1,0.2,NA,-7.9,16.4,NA,NA,NA,2024,Both,1,Both1,Warm,1,Warm1,O,2,S,2024_Both01_Warm01_O2_S,NA,Hyp,Warm,Norm,Warm
+115,10.8,0.2,NA,-7.9,16.3,NA,NA,NA,2024,Hyp,5,Hyp5,Warm,1,Warm1,B,10,S,2024_Hyp05_Warm01_B10_S,NA,Hyp,Ambient,Norm,Warm
+116,11,0.2,NA,-9.2,17.4,NA,NA,NA,2024,Warm,4,Warm4,Warm,1,Warm1,G,7,S,2024_Warm04_Warm01_G7_S,NA,Norm,Warm,Norm,Warm
+117,10.7,0.2,NA,-7.7,16.2,NA,NA,NA,2024,Both,4,Both4,Warm,1,Warm1,O,8,S,2024_Both04_Warm01_O8_S,NA,Hyp,Warm,Norm,Warm
+118,10.9,0.2,small peak - error on δ15N will be higher,-9.6,17.5,NA,NA,NA,2024,Cont,1,Cont1,Warm,1,Warm1,W,1,S,2024_Cont01_Warm01_W1_S,NA,Norm,Ambient,Norm,Warm
+119,10.9,0.2,NA,-9.7,17.7,NA,NA,NA,2024,Warm,5,Warm5,Warm,1,Warm1,G,9,S,2024_Warm05_Warm01_G9_S,2/28/25 SKM we changed the 119 label to this one from Warm4_Warm1_G7_T because of the contents of the vial looking like shell and the order of the weigh boats,Norm,Warm,Norm,Warm
+123,12.3,9.3,NA,-24.8,46.8,NA,NA,NA,2024,Both,4,Both4,Warm,1,Warm1,O,8,T,2024_Both04_Warm01_O8_T,"2/28/25 SKM This is the correct vial number, but 120-122 should be four samples rather than three based on the weigh boats. Discounting those and not this one.",Hyp,Warm,Norm,Warm
+124,11.8,7.7,NA,-25.6,51.9,NA,NA,NA,2024,Cont,1,Cont1,Warm,1,Warm1,W,1,T,2024_Cont01_Warm01_W1_T,3/5 SC Started with this one today.,Norm,Ambient,Norm,Warm
+125,12.6,7,NA,-24.7,43.8,NA,NA,NA,2024,Cont,6,Cont6,Warm,4,Warm4,W,47,T,2024_Cont06_Warm04_W47_T,NA,Norm,Ambient,Norm,Warm
+126,11.3,0.2,NA,-7,15.5,NA,NA,NA,2024,Cont,6,Cont6,Warm,4,Warm4,W,47,S,2024_Cont06_Warm04_W47_S,NA,Norm,Ambient,Norm,Warm
+127,13.6,0.2,NA,-6.3,14.7,NA,NA,NA,2024,Hyp,4,Hyp4,Warm,4,Warm4,B,44,S,2024_Hyp04_Warm04_B44_S,NA,Hyp,Ambient,Norm,Warm
+128,11.6,0.2,NA,-6.9,15,NA,NA,NA,2024,Warm,3,Warm3,Warm,4,Warm4,G,41,S,2024_Warm03_Warm04_G41_S,SC 3/5 Ended with this one today,Norm,Warm,Norm,Warm
+129,12,0.2,NA,-7.4,15.3,NA,NA,NA,2024,Cont,5,Cont5,Warm,3,Warm3,W,33,S,2024_Cont05_Warm03_W33_S,SC 3/19 Started with this one today,Norm,Ambient,Norm,Warm
+130,9.9,0.2,NA,-8.6,16.2,NA,NA,NA,2024,Cont,4,Cont4,Warm,3,Warm3,W,31,S,2024_Cont04_Warm03_W31_S,NA,Norm,Ambient,Norm,Warm
+131,10.8,0.2,NA,-6.8,14.9,NA,NA,NA,2024,Hyp,2,Hyp2,Warm,3,Warm3,B,28,S,2024_Hyp02_Warm03_B28_S,NA,Hyp,Ambient,Norm,Warm
+132,11.8,4.3,small peak - error on δ15N will be higher,-22.9,33.4,NA,NA,NA,2024,Cont,5,Cont5,Warm,3,Warm3,W,33,T,2024_Cont05_Warm03_W33_T,NA,Norm,Ambient,Norm,Warm
+133,12.3,7,NA,-25.2,48,NA,NA,NA,2024,Cont,4,Cont4,Warm,3,Warm3,W,31,T,2024_Cont04_Warm03_W31_T,NA,Norm,Ambient,Norm,Warm
+134,12.6,8.3,NA,-25.4,47.9,NA,NA,NA,2024,Hyp,2,Hyp2,Warm,3,Warm3,B,28,T,2024_Hyp02_Warm03_B28_T,NA,Hyp,Ambient,Norm,Warm
+135,11.4,0.2,NA,-6.9,15,NA,NA,NA,2024,Both,2,Both2,Warm,3,Warm3,O,27,S,2024_Both02_Warm03_O27_S,NA,Hyp,Warm,Norm,Warm
+136,10.9,0.1,small peak - error on δ15N will be higher,-5.6,14.3,NA,NA,NA,2024,Hyp,6,Hyp6,Warm,3,Warm3,B,36,S,2024_Hyp06_Warm03_B36_S,NA,Hyp,Ambient,Norm,Warm
+137,11.4,0.1,small peak - error on δ15N will be higher,-7.8,15.7,NA,NA,NA,2024,Warm,3,Warm3,Warm,3,Warm3,G,30,S,2024_Warm03_Warm03_G30_S,NA,Norm,Warm,Norm,Warm
+138,13,8.3,NA,-23.5,38.8,NA,NA,NA,2024,Warm,1,Warm1,Warm,3,Warm3,G,25,T,2024_Warm01_Warm03_G25_T,NA,Norm,Warm,Norm,Warm
+139,12.1,7.6,NA,-25.4,49.2,NA,NA,NA,2024,Warm,3,Warm3,Warm,3,Warm3,G,30,T,2024_Warm03_Warm03_G30_T,NA,Norm,Warm,Norm,Warm
+140,12.2,6.4,NA,-26.1,53.4,NA,NA,NA,2024,Hyp,6,Hyp6,Warm,3,Warm3,B,36,T,2024_Hyp06_Warm03_B36_T,NA,Hyp,Ambient,Norm,Warm
+141,12,8,NA,-25.3,45.4,NA,NA,NA,2024,Both,2,Both2,Warm,3,Warm3,O,27,T,2024_Both02_Warm03_O27_T,NA,Hyp,Warm,Norm,Warm
+142,13.6,0.2,NA,-7.8,15.7,NA,NA,NA,2024,Warm,1,Warm1,Warm,3,Warm3,G,25,S,2024_Warm01_Warm03_G25_S,SC 3/19 Ended with this one today,Norm,Warm,Norm,Warm
+143,12.4,9.6,NA,-24.7,44.4,NA,NA,NA,2024,Warm,4,Warm4,Warm,4,Warm4,G,44,T,2024_Warm04_Warm04_G44_T,SC 3/21 Started with this one today,Norm,Warm,Norm,Warm
+144,12.1,8.3,NA,-25.5,49.1,NA,NA,NA,2024,Cont,2,Cont2,Warm,1,Warm1,W,3,T,2024_Cont02_Warm01_W3_T,NA,Norm,Ambient,Norm,Warm
+145,12,8.2,NA,-25.7,49.6,NA,NA,NA,2024,Hyp,3,Hyp3,Warm,1,Warm1,B,6,T,2024_Hyp03_Warm01_B6_T,NA,Hyp,Ambient,Norm,Warm
+146,11.8,0.2,NA,-8.4,15.9,NA,NA,NA,2024,Warm,4,Warm4,Warm,4,Warm4,G,44,S,2024_Warm04_Warm04_G44_S,NA,Norm,Warm,Norm,Warm
+147,11.9,0.2,NA,-8.1,15.9,NA,NA,NA,2024,Cont,2,Cont2,Warm,1,Warm1,W,3,S,2024_Cont02_Warm01_W3_S,NA,Norm,Ambient,Norm,Warm
+148,10.5,0.2,NA,-10.3,17.8,NA,NA,NA,2024,Hyp,3,Hyp3,Warm,1,Warm1,B,6,S,2024_Hyp03_Warm01_B6_S,NA,Hyp,Ambient,Norm,Warm
+149,12.6,7.8,NA,-24.6,41.1,NA,NA,NA,2024,Warm,3,Warm3,Warm,4,Warm4,G,41,T,2024_Warm03_Warm04_G41_T,NA,Norm,Warm,Norm,Warm
+150,11.9,7,NA,-25.1,47.3,NA,NA,NA,2024,Hyp,4,Hyp4,Warm,4,Warm4,B,44,T,2024_Hyp04_Warm04_B44_T,SC 3/21 Ended with this one today,Hyp,Ambient,Norm,Warm
+151,11.4,0.2,NA,-7.9,15.8,NA,NA,NA,2024,Hyp,3,Hyp3,Warm,4,Warm4,B,42,S,2024_Hyp03_Warm04_B42_S,SKM 3/21 Started with this one today,Hyp,Ambient,Norm,Warm
+152,12.1,0.2,NA,-9,16.9,NA,NA,NA,2024,Cont,1,Cont1,Warm,4,Warm4,W,38,S,2024_Cont01_Warm04_W38_S,NA,Norm,Ambient,Norm,Warm
+153,12,0.2,NA,-8,15.9,NA,NA,NA,2024,Both,5,Both5,Warm,4,Warm4,O,46,S,2024_Both05_Warm04_O46_S,NA,Hyp,Warm,Norm,Warm
+154,12.1,7.3,NA,-24,39.7,NA,NA,NA,2024,Hyp,3,Hyp3,Warm,4,Warm4,B,42,T,2024_Hyp03_Warm04_B42_T,NA,Hyp,Ambient,Norm,Warm
+155,12.4,6.7,NA,-23.5,36.9,NA,NA,NA,2024,Cont,1,Cont1,Warm,4,Warm4,W,38,T,2024_Cont01_Warm04_W38_T,NA,Norm,Ambient,Norm,Warm
+156,12.1,6.4,small peak - error on δ15N will be higher,-24.5,36.4,NA,NA,NA,2024,Both,5,Both5,Warm,4,Warm4,O,46,T,2024_Both05_Warm04_O46_T,NA,Hyp,Warm,Norm,Warm
+157,10.6,0.2,NA,-7,15.3,NA,NA,NA,2024,Both,2,Both2,Warm,4,Warm4,O,40,S,2024_Both02_Warm04_O40_S,NA,Hyp,Warm,Norm,Warm
+158,11.3,0.1,small peak - error on δ15N will be higher,-7.7,15.9,NA,NA,NA,2024,Both,3,Both3,Warm,3,Warm3,O,29,S,2024_Both03_Warm03_O29_S,NA,Hyp,Warm,Norm,Warm
+159,9.1,0.2,NA,-7.3,15.4,NA,NA,NA,2024,Hyp,2,Hyp2,Warm,5,Warm5,B,52,S,2024_Hyp02_Warm05_B52_S,NA,Hyp,Ambient,Norm,Warm
+160,12.2,5.6,small peak - error on δ15N will be higher,-24.9,40.6,NA,NA,NA,2024,Both,2,Both2,Warm,4,Warm4,O,40,T,2024_Both02_Warm04_O40_T,NA,Hyp,Warm,Norm,Warm
+161,11.9,7.2,NA,-23.8,39.6,NA,NA,NA,2024,Both,3,Both3,Warm,3,Warm3,O,29,T,2024_Both03_Warm03_O29_T,NA,Hyp,Warm,Norm,Warm
+162,12.2,7.7,NA,-24.7,43,NA,NA,NA,2024,Hyp,2,Hyp2,Warm,5,Warm5,B,52,T,2024_Hyp02_Warm05_B52_T,3/24 SKM ended with this one today,Hyp,Ambient,Norm,Warm
+163,12,0.2,NA,-6.9,15.1,NA,NA,NA,2024,Hyp,6,Hyp6,Warm,5,Warm5,B,59,S,2024_Hyp06_Warm05_B59_S,3/26 SC started with this one today,Hyp,Ambient,Norm,Warm
+164,11.9,0.3,NA,-8.9,15.6,NA,Y,Y,2024,Warm,1,Warm1,Warm,5,Warm5,G,49,S,2024_Warm01_Warm05_G49_S,NA,Norm,Warm,Norm,Warm
+165,12.6,0.4,NA,-7.5,15.6,NA,NA,NA,2024,Cont,5,Cont5,Warm,5,Warm5,W,57,S,2024_Cont05_Warm05_W57_S,NA,Norm,Ambient,Norm,Warm
+166,12.6,9.3,NA,-24.2,42.5,NA,NA,NA,2024,Hyp,6,Hyp6,Warm,5,Warm5,B,59,T,2024_Hyp06_Warm05_B59_T,NA,Hyp,Ambient,Norm,Warm
+167,11.9,6.7,NA,-24.3,37.9,NA,Y,Y,2024,Warm,1,Warm1,Warm,5,Warm5,G,49,T,2024_Warm01_Warm05_G49_T,NA,Norm,Warm,Norm,Warm
+168,12.4,9.7,NA,-24.5,40.8,NA,NA,NA,2024,Cont,5,Cont5,Warm,5,Warm5,W,57,T,2024_Cont05_Warm05_W57_T,NA,Norm,Ambient,Norm,Warm
+169,11.5,6.2,small peak - error on δ15N will be higher,-21.9,31.2,NA,NA,NA,2024,Both,1,Both1,Warm,5,Warm5,O,49,T,2024_Both01_Warm05_O49_T,NA,Hyp,Warm,Norm,Warm
+170,14.5,0.1,small peak - error on δ15N will be higher,-8.1,16.1,NA,NA,NA,2024,Both,1,Both1,Warm,5,Warm5,O,49,S,2024_Both01_Warm05_O49_S,3/26 SC ended with this one today,Hyp,Warm,Norm,Warm
+171,11.8,0.2,NA,-6.3,14.5,NA,NA,NA,2024,Both,4,Both4,Warm,5,Warm5,O,55,S,2024_Both04_Warm05_O55_S,3/24/25 SKM was once a double but there is only one shell of the second oyster. likely fine to include in analysis because second shell likely already there when entering phase 2.3/28 SC Started with this one today,Hyp,Warm,Norm,Warm
+172,12.4,0.2,NA,-8.5,16.4,NA,NA,NA,2024,Warm,2,Warm2,Warm,5,Warm5,G,52,S,2024_Warm02_Warm05_G52_S,NA,Norm,Warm,Norm,Warm
+173,11.8,0.2,NA,-11.1,18.9,NA,NA,NA,2024,Cont,3,Cont3,Warm,5,Warm5,W,53,S,2024_Cont03_Warm05_W53_S,NA,Norm,Ambient,Norm,Warm
+174,12.2,8.9,NA,-24.1,39.2,NA,NA,NA,2024,Both,4,Both4,Warm,5,Warm5,O,55,T,2024_Both04_Warm05_O55_T,NA,Hyp,Warm,Norm,Warm
+175,12.4,10.2,NA,-24.3,42.3,NA,NA,NA,2024,Warm,2,Warm2,Warm,5,Warm5,G,52,T,2024_Warm02_Warm05_G52_T,NA,Norm,Warm,Norm,Warm
+176,11.9,9.9,NA,-24,41.3,NA,NA,NA,2024,Cont,3,Cont3,Warm,5,Warm5,W,53,T,2024_Cont03_Warm05_W53_T,NA,Norm,Ambient,Norm,Warm
+177,11.3,0.2,NA,-6.6,14.8,NA,NA,NA,2024,Warm,2,Warm2,Both,4,Both4,G,40,S,2024_Warm02_Both04_G40_S,NA,Norm,Warm,Hyp,Warm
+178,11.5,0.2,NA,-8.6,16.5,NA,NA,NA,2024,Cont,4,Cont4,Both,4,Both4,W,44,S,2024_Cont04_Both04_W44_S,NA,Norm,Ambient,Hyp,Warm
+179,12.4,0.2,NA,-10.2,18,NA,NA,NA,2024,Warm,1,Warm1,Both,4,Both4,G,38,S,2024_Warm01_Both04_G38_S,NA,Norm,Warm,Hyp,Warm
+180,12.5,9.6,NA,-24.4,44.3,NA,NA,NA,2024,Warm,2,Warm2,Both,4,Both4,G,40,T,2024_Warm02_Both04_G40_T,NA,Norm,Warm,Hyp,Warm
+181,12.3,6.1,small peak - error on δ15N will be higher,-25.5,57.8,NA,NA,NA,2024,Cont,4,Cont4,Both,4,Both4,W,44,T,2024_Cont04_Both04_W44_T,NA,Norm,Ambient,Hyp,Warm
+182,12.7,9.8,NA,-23.8,40.5,NA,NA,NA,2024,Warm,1,Warm1,Both,4,Both4,G,38,T,2024_Warm01_Both04_G38_T,SC 3/28 Ended with this one today,Norm,Warm,Hyp,Warm
+183,14.6,0.2,NA,-7.6,15.8,NA,NA,NA,2024,Both,2,Both2,Both,4,Both4,O,40,S,2024_Both02_Both04_O40_S,3/31 SKM started with this one todsy,Hyp,Warm,Hyp,Warm
+184,5,0.4,NA,-8.4,16.7,NA,NA,NA,2024,Both,6,Both6,Both,4,Both4,O,47,S,2024_Both06_Both04_O47_S,NA,Hyp,Warm,Hyp,Warm
+185,12.2,0.3,NA,-9.5,17.3,NA,NA,NA,2024,Cont,6,Cont6,Both,4,Both4,W,48,S,2024_Cont06_Both04_W48_S,NA,Norm,Ambient,Hyp,Warm
+186,12.4,9.6,NA,-23.8,40.7,NA,NA,NA,2024,Both,2,Both2,Both,4,Both4,O,40,T,2024_Both02_Both04_O40_T,NA,Hyp,Warm,Hyp,Warm
+187,11.5,7.1,NA,-23.6,41.5,NA,NA,NA,2024,Both,6,Both6,Both,4,Both4,O,47,T,2024_Both06_Both04_O47_T,NA,Hyp,Warm,Hyp,Warm
+188,11.7,3.9,small peak - error on δ15N will be higher,-22.6,33,NA,NA,NA,2024,Cont,6,Cont6,Both,4,Both4,W,48,T,2024_Cont06_Both04_W48_T,NA,Norm,Ambient,Hyp,Warm
+189,8.6,0.3,NA,-9.5,17.5,NA,NA,NA,2024,Both,5,Both5,Warm,2,Warm2,O,22,S,2024_Both05_Warm02_O22_S,NA,Hyp,Warm,Norm,Warm
+190,11.9,0.2,NA,-8.9,17.2,NA,Y,Y,2024,Warm,6,Warm6,Warm,2,Warm2,G,24,S,2024_Warm06_Warm02_G24_S,NA,Norm,Warm,Norm,Warm
+191,12.7,0.2,NA,-7.3,15.6,NA,NA,NA,2024,Warm,2,Warm2,Warm,2,Warm2,G,15,S,2024_Warm02_Warm02_G15_S,3/31 SKM ended with this one today,Norm,Warm,Norm,Warm
+192,12.5,9.3,NA,-23.4,39,NA,NA,NA,2024,Both,5,Both5,Warm,2,Warm2,O,22,T,2024_Both05_Warm02_O22_T,SC 4/2 started with this one today,Hyp,Warm,Norm,Warm
+193,12.1,7.8,NA,-22.5,35.1,NA,Y,Y,2024,Warm,6,Warm6,Warm,2,Warm2,G,24,T,2024_Warm06_Warm02_G24_T,NA,Norm,Warm,Norm,Warm
+194,13,9.1,NA,-24.1,39.6,NA,NA,NA,2024,Warm,2,Warm2,Warm,2,Warm2,G,15,T,2024_Warm02_Warm02_G15_T,NA,Norm,Warm,Norm,Warm
+195,12.3,0.1,NA,-6.3,14.8,NA,NA,NA,2024,Hyp,4,Hyp4,Both,4,Both4,B,43,S,2024_Hyp04_Both04_B43_S,NA,Hyp,Ambient,Hyp,Warm
+196,12.4,0.2,NA,-9.9,18,two samples in well B12 - possibly mixed up with 220,NA,NA,2024,Both,6,Both6,Warm,2,Warm2,O,24,S,2024_Both06_Warm02_O24_S,NA,Hyp,Warm,Norm,Warm
+197,12.6,9.3,NA,-24.6,47,NA,NA,NA,2024,Hyp,4,Hyp4,Both,4,Both4,B,43,T,2024_Hyp04_Both04_B43_T,NA,Hyp,Ambient,Hyp,Warm
+198,12.6,10.1,NA,-23.5,40,NA,NA,NA,2024,Both,6,Both6,Warm,2,Warm2,O,24,T,2024_Both06_Warm02_O24_T,NA,Hyp,Warm,Norm,Warm
+199,12,0.2,NA,-8,16.2,NA,NA,NA,2024,Cont,6,Cont6,Warm,2,Warm2,W,24,S,2024_Cont06_Warm02_W24_S,NA,Norm,Ambient,Norm,Warm
+200,11.5,0.2,NA,-8.7,16.9,NA,NA,NA,2024,Cont,3,Cont3,Warm,2,Warm2,W,17,S,2024_Cont03_Warm02_W17_S,NA,Norm,Ambient,Norm,Warm
+201,11.8,0.2,NA,-9,17,NA,NA,NA,2024,Hyp,1,Hyp1,Warm,2,Warm2,B,13,S,2024_Hyp01_Warm02_B13_S,SC 4/2 Ended with this one today,Hyp,Ambient,Norm,Warm
+202,12.4,9.3,NA,-23.6,38.5,NA,NA,NA,2024,Cont,6,Cont6,Warm,2,Warm2,W,24,T,2024_Cont06_Warm02_W24_T,SC 4/4 started with this one today,Norm,Ambient,Norm,Warm
+203,12.7,9.2,NA,-23.9,41.6,NA,NA,NA,2024,Cont,3,Cont3,Warm,2,Warm2,W,17,T,2024_Cont03_Warm02_W17_T,NA,Norm,Ambient,Norm,Warm
+204,12.2,8.3,NA,-24,43.3,NA,NA,NA,2024,Hyp,1,Hyp1,Warm,2,Warm2,B,13,T,2024_Hyp01_Warm02_B13_T,NA,Hyp,Ambient,Norm,Warm
+205,12.2,0.2,NA,-8.5,16.8,NA,NA,NA,2024,Hyp,4,Hyp4,Warm,2,Warm2,B,19,S,2024_Hyp04_Warm02_B19_S,NA,Hyp,Ambient,Norm,Warm
+206,16.3,0.2,NA,-7.6,15.9,NA,NA,NA,2024,Cont,2,Cont2,Cont,2,Cont2,W,15,S,2024_Cont02_Cont02_W15_S,NA,Norm,Ambient,Norm,Ambient
+207,12.9,0.2,NA,-6,14.5,NA,NA,NA,2024,Both,4,Both4,Cont,2,Cont2,O,19,S,2024_Both04_Cont02_O19_S,NA,Hyp,Warm,Norm,Ambient
+208,13.2,5.8,small peak - error on δ15N will be higher,-24.8,50.6,NA,NA,NA,2024,Hyp,4,Hyp4,Warm,2,Warm2,B,19,T,2024_Hyp04_Warm02_B19_T,NA,Hyp,Ambient,Norm,Warm
+209,13,9.9,NA,-24.3,41.9,NA,NA,NA,2024,Cont,2,Cont2,Cont,2,Cont2,W,15,T,2024_Cont02_Cont02_W15_T,NA,Norm,Ambient,Norm,Ambient
+210,12.8,9.8,NA,-24.1,40.5,NA,NA,NA,2024,Both,4,Both4,Cont,2,Cont2,O,19,T,2024_Both04_Cont02_O19_T,4/4 SC ended with this one today,Hyp,Warm,Norm,Ambient
+211,12.7,9.9,NA,-24.1,40.3,NA,NA,NA,2024,Hyp,6,Hyp6,Cont,2,Cont2,B,23,T,2024_Hyp06_Cont02_B23_T,4/9 SC started with this one today,Hyp,Ambient,Norm,Ambient
+212,12.3,9.4,NA,-23.8,39.2,NA,NA,NA,2024,Hyp,3,Hyp3,Cont,2,Cont2,B,18,T,2024_Hyp03_Cont02_B18_T,NA,Hyp,Ambient,Norm,Ambient
+213,12.8,9.4,NA,-23.4,37.3,NA,NA,NA,2024,Warm,4,Warm4,Cont,2,Cont2,G,20,T,2024_Warm04_Cont02_G20_T,NA,Norm,Warm,Norm,Ambient
+214,13.3,0.2,NA,-9.3,16.9,NA,NA,NA,2024,Hyp,6,Hyp6,Cont,2,Cont2,B,23,S,2024_Hyp06_Cont02_B23_S,NA,Hyp,Ambient,Norm,Ambient
+215,12.9,0.3,NA,-8,16.1,NA,NA,NA,2024,Hyp,3,Hyp3,Cont,2,Cont2,B,18,S,2024_Hyp03_Cont02_B18_S,NA,Hyp,Ambient,Norm,Ambient
+216,12.4,0.3,NA,-9.3,17.1,NA,NA,NA,2024,Warm,4,Warm4,Cont,2,Cont2,G,20,S,2024_Warm04_Cont02_G20_S,4/9 SC ended with this one today,Norm,Warm,Norm,Ambient
+217,12,9,NA,-23.5,40.4,NA,NA,NA,2024,Cont,6,Cont6,Hyp,5,Hyp5,W,60,T,2024_Cont06_Hyp05_W60_T,4/16 SKM started w this one,Norm,Ambient,Hyp,Ambient
+218,12.5,9.3,NA,-24.2,40.9,NA,Y,Y,2024,Warm,3,Warm3,Hyp,5,Hyp5,G,53,T,2024_Warm03_Hyp05_G53_T,NA,Norm,Warm,Hyp,Ambient
+219,12.8,9.1,NA,-24.9,46,NA,NA,NA,2024,Warm,5,Warm5,Hyp,5,Hyp5,G,57,T,2024_Warm05_Hyp05_G57_T,NA,Norm,Warm,Hyp,Ambient
+220,10.4,0.2,NA,-7.3,15.7,two samples in well B12 - possibly mixed up with 196,NA,NA,2024,Cont,6,Cont6,Hyp,5,Hyp5,W,60,S,2024_Cont06_Hyp05_W60_S,NA,Norm,Ambient,Hyp,Ambient
+221,12.2,0.2,NA,-6.8,15,NA,Y,Y,2024,Warm,3,Warm3,Hyp,5,Hyp5,G,53,S,2024_Warm03_Hyp05_G53_S,NA,Norm,Warm,Hyp,Ambient
+222,12,0.2,NA,-6.8,15.3,NA,NA,NA,2024,Warm,5,Warm5,Hyp,5,Hyp5,G,57,S,2024_Warm05_Hyp05_G57_S,NA,Norm,Warm,Hyp,Ambient
+223,12.4,9.1,NA,-24.3,42.7,NA,NA,NA,2024,Both,6,Both6,Hyp,5,Hyp5,O,60,T,2024_Both06_Hyp05_O60_T,NA,Hyp,Warm,Hyp,Ambient
+224,12.4,5.7,small peak - error on δ15N will be higher,-25.8,60,NA,NA,NA,2024,Cont,5,Cont5,Hyp,5,Hyp5,W,57,T,2024_Cont05_Hyp05_W57_T,dropped sample on counter,Norm,Ambient,Hyp,Ambient
+225,12.3,6.6,NA,-24.6,47.2,NA,NA,NA,2024,Hyp,1,Hyp1,Hyp,5,Hyp5,B,50,T,2024_Hyp01_Hyp05_B50_T,NA,Hyp,Ambient,Hyp,Ambient
+226,12,0.2,NA,-8.1,16.1,NA,NA,NA,2024,Both,6,Both6,Hyp,5,Hyp5,O,60,S,2024_Both06_Hyp05_O60_S,NA,Hyp,Warm,Hyp,Ambient
+227,11.9,0.2,NA,-7,15.2,NA,NA,NA,2024,Cont,5,Cont5,Hyp,5,Hyp5,W,57,S,2024_Cont05_Hyp05_W57_S,bee tag may have flaked into sample,Norm,Ambient,Hyp,Ambient
+228,12.4,0.2,NA,-8.6,16.5,NA,NA,NA,2024,Hyp,1,Hyp1,Hyp,5,Hyp5,B,50,S,2024_Hyp01_Hyp05_B50_S,4/16 SKM ended with this one,Hyp,Ambient,Hyp,Ambient
+229,9.4,0.3,NA,-9.9,17.8,NA,NA,NA,2024,Both,1,Both1,Hyp,5,Hyp5,O,49,S,2024_Both01_Hyp05_O49_S,4/25/25 SC Started with this one today,Hyp,Warm,Hyp,Ambient
+230,14.5,0.2,NA,-10.1,18.1,NA,NA,NA,2024,Hyp,3,Hyp3,Hyp,5,Hyp5,B,54,S,2024_Hyp03_Hyp05_B54_S,NA,Hyp,Ambient,Hyp,Ambient
+231,12.8,8.5,NA,-24,40.3,NA,NA,NA,2024,Both,1,Both1,Hyp,5,Hyp5,O,49,T,2024_Both01_Hyp05_O49_T,NA,Hyp,Warm,Hyp,Ambient
+232,12.6,8.4,NA,-24.7,50.4,NA,NA,NA,2024,Hyp,3,Hyp3,Hyp,5,Hyp5,B,54,T,2024_Hyp03_Hyp05_B54_T,4/25/25 SC Ended with this one today,Hyp,Ambient,Hyp,Ambient
+233,12.5,0.2,NA,-5.3,14.5,NA,NA,NA,2024,Cont,1,Cont1,Cont,2,Cont2,W,14,S,2024_Cont01_Cont02_W14_S,5/12/2025 SC started with this one today,Norm,Ambient,Norm,Ambient
+234,11.6,0.2,NA,-9.1,17,NA,NA,NA,2024,Warm,3,Warm3,Cont,2,Cont2,G,18,S,2024_Warm03_Cont02_G18_S,NA,Norm,Warm,Norm,Ambient
+235,4.4,0.3,NA,-9.1,17.3,NA,Y,Y,2024,Both,5,Both5,Cont,2,Cont2,O,21,S,2024_Both05_Cont02_O21_S,"5/9/25 SC dead oyster, had no tissue",Hyp,Warm,Norm,Ambient
+236,12.7,10.1,NA,-23.7,39.4,NA,NA,NA,2024,Cont,1,Cont1,Cont,2,Cont2,W,14,T,2024_Cont01_Cont02_W14_T,NA,Norm,Ambient,Norm,Ambient
+237,12.1,9.7,NA,-23.9,40,NA,NA,NA,2024,Warm,3,Warm3,Cont,2,Cont2,G,18,T,2024_Warm03_Cont02_G18_T,NA,Norm,Warm,Norm,Ambient
+238,10.8,0.3,NA,-7.6,15.9,NA,NA,NA,2024,Hyp,2,Hyp2,Cont,3,Cont3,B,27,S,2024_Hyp02_Cont03_B27_S,NA,Hyp,Ambient,Norm,Ambient
+239,13,0.3,NA,-9.3,17.2,NA,NA,NA,2024,Warm,5,Warm5,Cont,3,Cont3,G,33,S,2024_Warm05_Cont03_G33_S,NA,Norm,Warm,Norm,Ambient
+240,12.5,0.2,NA,-6.1,14.8,NA,NA,NA,2024,Warm,2,Warm2,Cont,3,Cont3,G,28,S,2024_Warm02_Cont03_G28_S,NA,Norm,Warm,Norm,Ambient
+241,12.2,6.9,NA,-22.5,33,NA,NA,NA,2024,Hyp,2,Hyp2,Cont,3,Cont3,B,27,T,2024_Hyp02_Cont03_B27_T,NA,Hyp,Ambient,Norm,Ambient
+242,12.1,8.3,NA,-23.4,35.6,NA,NA,NA,2024,Warm,5,Warm5,Cont,3,Cont3,G,33,T,2024_Warm05_Cont03_G33_T,NA,Norm,Warm,Norm,Ambient
+243,12.2,8.3,NA,-23.9,35,NA,NA,NA,2024,Warm,2,Warm2,Cont,3,Cont3,G,28,T,2024_Warm02_Cont03_G28_T,NA,Norm,Warm,Norm,Ambient
+244,12.6,0.2,NA,-8.4,16.5,NA,NA,NA,2024,Cont,3,Cont3,Cont,3,Cont3,W,30,S,2024_Cont03_Cont03_W30_S,NA,Norm,Ambient,Norm,Ambient
+245,12.7,10.5,NA,-24.3,42.5,NA,NA,NA,2024,Cont,3,Cont3,Cont,3,Cont3,W,30,T,2024_Cont03_Cont03_W30_T,5/12/2025 SC ended with this one today,Norm,Ambient,Norm,Ambient
+246,12.5,0.2,NA,-8.2,16.2,NA,NA,NA,2024,Cont,1,Cont1,Cont,3,Cont3,W,26,S,2024_Cont01_Cont03_W26_S,5/19 SKM started with this one today,Norm,Ambient,Norm,Ambient
+247,11.8,0.2,NA,-7,15.4,NA,NA,NA,2024,Hyp,5,Hyp5,Cont,3,Cont3,B,33,S,2024_Hyp05_Cont03_B33_S,NA,Hyp,Ambient,Norm,Ambient
+248,12.5,0.3,NA,-7.1,15.2,NA,NA,NA,2024,Both,6,Both6,Cont,3,Cont3,O,35,S,2024_Both06_Cont03_O35_S,NA,Hyp,Warm,Norm,Ambient
+249,12.2,10,NA,-24.4,45.5,NA,NA,NA,2024,Cont,1,Cont1,Cont,3,Cont3,W,26,T,2024_Cont01_Cont03_W26_T,"clumped, put back in drying oven",Norm,Ambient,Norm,Ambient
+250,12,7.1,small peak - error on δ15N will be higher,-22.9,35.4,NA,NA,NA,2024,Hyp,5,Hyp5,Cont,3,Cont3,B,33,T,2024_Hyp05_Cont03_B33_T,NA,Hyp,Ambient,Norm,Ambient
+251,12.3,10.3,NA,-24,42,NA,NA,NA,2024,Both,6,Both6,Cont,3,Cont3,O,35,T,2024_Both06_Cont03_O35_T,NA,Hyp,Warm,Norm,Ambient
+252,12.3,0.2,NA,-7.3,15.5,NA,NA,NA,2024,Both,2,Both2,Cont,3,Cont3,O,27,S,2024_Both02_Cont03_O27_S,NA,Hyp,Warm,Norm,Ambient
+253,12.6,8.1,NA,-24.8,46.7,NA,NA,NA,2024,Both,2,Both2,Cont,3,Cont3,O,27,T,2024_Both02_Cont03_O27_T,"5/19 AM ended with this one today; clumped, put back into drying oven",Hyp,Warm,Norm,Ambient
+254,12.8,0.2,NA,-7.8,16.1,NA,NA,NA,2024,Cont,2,Cont2,Hyp,4,Hyp4,W,40,S,2024_Cont02_Hyp04_W40_S,5/21/2025 SC started with this one today,Norm,Ambient,Hyp,Ambient
+255,7,0.3,NA,-10,18.1,NA,NA,NA,2024,Hyp,4,Hyp4,Hyp,4,Hyp4,B,43,S,2024_Hyp04_Hyp04_B43_S,NA,Hyp,Ambient,Hyp,Ambient
+256,12.2,0.2,NA,-8,16.2,NA,NA,NA,2024,Warm,3,Warm3,Hyp,4,Hyp4,G,41,S,2024_Warm03_Hyp04_G41_S,NA,Norm,Warm,Hyp,Ambient
+257,13.3,7.4,small peak - error on δ15N will be higher,-25.1,51.5,NA,NA,NA,2024,Cont,2,Cont2,Hyp,4,Hyp4,W,40,T,2024_Cont02_Hyp04_W40_T,NA,Norm,Ambient,Hyp,Ambient
+258,12.3,9.1,NA,-24.3,43.3,NA,NA,NA,2024,Hyp,4,Hyp4,Hyp,4,Hyp4,B,43,T,2024_Hyp04_Hyp04_B43_T,NA,Hyp,Ambient,Hyp,Ambient
+259,12.2,8,NA,-22.6,34.8,NA,NA,NA,2024,Warm,3,Warm3,Hyp,4,Hyp4,G,41,T,2024_Warm03_Hyp04_G41_T,NA,Norm,Warm,Hyp,Ambient
+260,10.9,0.2,NA,-8,16.2,NA,NA,NA,2024,Cont,1,Cont1,Hyp,4,Hyp4,W,38,S,2024_Cont01_Hyp04_W38_S,NA,Norm,Ambient,Hyp,Ambient
+261,11.7,0.2,NA,-9.6,17.4,NA,NA,NA,2024,Both,2,Both2,Hyp,4,Hyp4,O,40,S,2024_Both02_Hyp04_O40_S,NA,Hyp,Warm,Hyp,Ambient
+262,12.2,0.2,NA,-7.3,15.7,NA,NA,NA,2024,Hyp,6,Hyp6,Hyp,4,Hyp4,B,47,S,2024_Hyp06_Hyp04_B47_S,NA,Hyp,Ambient,Hyp,Ambient
+263,12.3,10,NA,-24.4,43.3,NA,NA,NA,2024,Cont,1,Cont1,Hyp,4,Hyp4,W,38,T,2024_Cont01_Hyp04_W38_T,NA,Norm,Ambient,Hyp,Ambient
+264,11.8,8.8,NA,-23.6,39.3,NA,NA,NA,2024,Both,2,Both2,Hyp,4,Hyp4,O,40,T,2024_Both02_Hyp04_O40_T,NA,Hyp,Warm,Hyp,Ambient
+265,12,9.8,NA,-24.4,43.4,NA,NA,NA,2024,Hyp,6,Hyp6,Hyp,4,Hyp4,B,47,T,2024_Hyp06_Hyp04_B47_T,NA,Hyp,Ambient,Hyp,Ambient
+266,11.3,0.2,NA,-8,16.2,NA,NA,NA,2024,Hyp,5,Hyp5,Cont,5,Cont5,B,58,S,2024_Hyp05_Cont05_B58_S,NA,Hyp,Ambient,Norm,Ambient
+267,11.3,0.2,NA,-7.6,15.8,NA,NA,NA,2024,Cont,3,Cont3,Cont,5,Cont5,W,53,S,2024_Cont03_Cont05_W53_S,NA,Norm,Ambient,Norm,Ambient
+268,11.8,0.2,NA,-8.8,16.8,NA,NA,NA,2024,Warm,5,Warm5,Cont,5,Cont5,G,58,S,2024_Warm05_Cont05_G58_S,NA,Norm,Warm,Norm,Ambient
+269,12,8.7,NA,-23.8,40.6,NA,NA,NA,2024,Hyp,5,Hyp5,Cont,5,Cont5,B,58,T,2024_Hyp05_Cont05_B58_T,NA,Hyp,Ambient,Norm,Ambient
+270,12.3,9.6,NA,-24.1,40.7,NA,NA,NA,2024,Cont,3,Cont3,Cont,5,Cont5,W,53,T,2024_Cont03_Cont05_W53_T,NA,Norm,Ambient,Norm,Ambient
+271,12.2,10.5,NA,-24.4,43.8,NA,NA,NA,2024,Warm,5,Warm5,Cont,5,Cont5,G,58,T,2024_Warm05_Cont05_G58_T,NA,Norm,Warm,Norm,Ambient
+272,12.4,0.2,NA,-8.9,16.9,NA,NA,NA,2024,Warm,1,Warm1,Cont,5,Cont5,G,50,S,2024_Warm01_Cont05_G50_S,NA,Norm,Warm,Norm,Ambient
+273,12,10.1,NA,-24.2,43.2,NA,NA,NA,2024,Warm,1,Warm1,Cont,5,Cont5,G,50,T,2024_Warm01_Cont05_G50_T,5/21/2025 SC ended with this one today,Norm,Warm,Norm,Ambient
+274,12.5,0.2,NA,-8.5,16.5,NA,NA,NA,2024,Cont,4,Cont4,Cont,5,Cont5,W,55,S,2024_Cont04_Cont05_W55_S,5/30/25 SC started with this one today,Norm,Ambient,Norm,Ambient
+275,10.1,0.3,NA,-8.3,16.3,NA,NA,NA,2024,Hyp,6,Hyp6,Cont,5,Cont5,B,60,S,2024_Hyp06_Cont05_B60_S,NA,Hyp,Ambient,Norm,Ambient
+276,13.8,0.3,NA,-8.3,16.1,NA,NA,NA,2024,Both,5,Both5,Cont,5,Cont5,O,57,S,2024_Both05_Cont05_O57_S,NA,Hyp,Warm,Norm,Ambient
+277,12.5,9.7,NA,-23.9,41.5,NA,NA,NA,2024,Cont,4,Cont4,Cont,5,Cont5,W,55,T,2024_Cont04_Cont05_W55_T,NA,Norm,Ambient,Norm,Ambient
+278,12.5,9.1,NA,-25,46.1,NA,NA,NA,2024,Hyp,6,Hyp6,Cont,5,Cont5,B,60,T,2024_Hyp06_Cont05_B60_T,NA,Hyp,Ambient,Norm,Ambient
+279,12.4,10.1,NA,-24.1,42.9,NA,NA,NA,2024,Both,5,Both5,Cont,5,Cont5,O,57,T,2024_Both05_Cont05_O57_T,"5/30/25 SC may be contaminated or weird results, touched table",Hyp,Warm,Norm,Ambient
+280,3.2,0.6,NA,-10.9,19,NA,Y,Y,2024,Both,3,Both3,Cont,5,Cont5,O,53,S,2024_Both03_Cont05_O53_S,"5/21/2025 SC no tissue in shell, dead",Hyp,Warm,Norm,Ambient
+281,13.2,0.3,NA,-9.6,17.5,NA,NA,NA,2024,Hyp,5,Hyp5,Hyp,2,Hyp2,B,22,S,2024_Hyp05_Hyp02_B22_S,NA,Hyp,Ambient,Hyp,Ambient
+282,12.8,0.2,NA,-8.3,16.5,NA,NA,NA,2024,Warm,5,Warm5,Hyp,2,Hyp2,G,22,S,2024_Warm05_Hyp02_G22_S,NA,Norm,Warm,Hyp,Ambient
+283,12.6,0.2,NA,-8.5,16.5,NA,NA,NA,2024,Cont,2,Cont2,Hyp,2,Hyp2,W,16,S,2024_Cont02_Hyp02_W16_S,NA,Norm,Ambient,Hyp,Ambient
+284,12.6,10,NA,-23.4,40.3,NA,NA,NA,2024,Hyp,5,Hyp5,Hyp,2,Hyp2,B,22,T,2024_Hyp05_Hyp02_B22_T,NA,Hyp,Ambient,Hyp,Ambient
+285,12.1,6.8,NA,-24.4,42.4,NA,NA,NA,2024,Warm,5,Warm5,Hyp,2,Hyp2,G,22,T,2024_Warm05_Hyp02_G22_T,NA,Norm,Warm,Hyp,Ambient
+286,12.5,9.7,NA,-23.6,40,NA,NA,NA,2024,Cont,2,Cont2,Hyp,2,Hyp2,W,16,T,2024_Cont02_Hyp02_W16_T,NA,Norm,Ambient,Hyp,Ambient
+287,12.3,0.2,NA,-7.1,15.3,NA,NA,NA,2024,Both,3,Both3,Hyp,2,Hyp2,O,18,S,2024_Both03_Hyp02_O18_S,NA,Hyp,Warm,Hyp,Ambient
+288,13,0.2,NA,-9.3,17.2,NA,NA,NA,2024,Both,6,Both6,Hyp,2,Hyp2,O,24,S,2024_Both06_Hyp02_O24_S,NA,Hyp,Warm,Hyp,Ambient
+289,12.4,0.3,NA,-8.6,16.6,NA,NA,NA,2024,Cont,6,Cont6,Hyp,2,Hyp2,W,23,S,2024_Cont06_Hyp02_W23_S,NA,Norm,Ambient,Hyp,Ambient
+290,12.2,9.4,NA,-23.8,41.7,NA,NA,NA,2024,Both,3,Both3,Hyp,2,Hyp2,O,18,T,2024_Both03_Hyp02_O18_T,NA,Hyp,Warm,Hyp,Ambient
+291,12.2,9.2,NA,-24.6,48,NA,NA,NA,2024,Both,6,Both6,Hyp,2,Hyp2,O,24,T,2024_Both06_Hyp02_O24_T,NA,Hyp,Warm,Hyp,Ambient
+292,12.3,9.7,NA,-23.2,39.2,NA,NA,NA,2024,Cont,6,Cont6,Hyp,2,Hyp2,W,23,T,2024_Cont06_Hyp02_W23_T,NA,Norm,Ambient,Hyp,Ambient
+293,10.3,0.2,NA,-8.6,16.6,NA,NA,NA,2024,Both,1,Both1,Hyp,4,Hyp4,O,37,S,2024_Both01_Hyp04_O37_S,NA,Hyp,Warm,Hyp,Ambient
+294,12.2,0.2,NA,-8.6,16.8,NA,NA,NA,2024,Warm,4,Warm4,Hyp,4,Hyp4,G,44,S,2024_Warm04_Hyp04_G44_S,NA,Norm,Warm,Hyp,Ambient
+295,12.4,7.4,NA,-25.4,55.5,NA,NA,NA,2024,Both,1,Both1,Hyp,4,Hyp4,O,37,T,2024_Both01_Hyp04_O37_T,NA,Hyp,Warm,Hyp,Ambient
+296,11.8,7.2,NA,-25.1,52.4,NA,NA,NA,2024,Warm,4,Warm4,Hyp,4,Hyp4,G,44,T,2024_Warm04_Hyp04_G44_T,NA,Norm,Warm,Hyp,Ambient
+297,9.8,0.3,NA,-7.9,15.9,NA,NA,NA,2024,Warm,1,Warm1,Hyp,2,Hyp2,G,14,S,2024_Warm01_Hyp02_G14_S,NA,Norm,Warm,Hyp,Ambient
+298,12,0.1,small peak - error on δ15N will be higher,-6.1,14.4,NA,NA,NA,2024,Hyp,1,Hyp1,Hyp,2,Hyp2,B,13,S,2024_Hyp01_Hyp02_B13_S,NA,Hyp,Ambient,Hyp,Ambient
+299,12.4,9.3,NA,-23.7,38.8,NA,NA,NA,2024,Warm,1,Warm1,Hyp,2,Hyp2,G,14,T,2024_Warm01_Hyp02_G14_T,NA,Norm,Warm,Hyp,Ambient
+300,12.6,9,NA,-23.4,37.3,NA,NA,NA,2024,Hyp,1,Hyp1,Hyp,2,Hyp2,B,13,T,2024_Hyp01_Hyp02_B13_T,5/30/25 SC ended with this one today,Hyp,Ambient,Hyp,Ambient
+301,14.7,0.2,NA,-5.5,14.3,NA,NA,NA,2024,Hyp,5,Hyp5,Hyp,1,Hyp1,B,9,S,2024_Hyp05_Hyp01_B9_S,6/6/25 SC started with this one today,Hyp,Ambient,Hyp,Ambient
+302,9.7,0.2,NA,-7.8,16.1,NA,NA,NA,2024,Cont,1,Cont1,Hyp,1,Hyp1,W,1,S,2024_Cont01_Hyp01_W1_S,NA,Norm,Ambient,Hyp,Ambient
+303,11.8,0.2,NA,-8.3,16.4,NA,NA,NA,2024,Hyp,6,Hyp6,Hyp,1,Hyp1,B,12,S,2024_Hyp06_Hyp01_B12_S,NA,Hyp,Ambient,Hyp,Ambient
+304,11.1,0.2,NA,-6.9,15.3,NA,NA,NA,2024,Warm,2,Warm2,Hyp,1,Hyp1,G,4,S,2024_Warm02_Hyp01_G4_S,NA,Norm,Warm,Hyp,Ambient
+305,11.6,0.2,NA,-7.6,16,NA,NA,NA,2024,Cont,4,Cont4,Hyp,1,Hyp1,W,7,S,2024_Cont04_Hyp01_W7_S,NA,Norm,Ambient,Hyp,Ambient
+306,12.1,0.2,NA,-8.6,16.6,NA,NA,NA,2024,Both,5,Both5,Hyp,1,Hyp1,O,10,S,2024_Both05_Hyp01_O10_S,NA,Hyp,Warm,Hyp,Ambient
+307,11.8,0.2,NA,-10.5,18.1,NA,NA,NA,2024,Warm,6,Warm6,Hyp,1,Hyp1,G,11,S,2024_Warm06_Hyp01_G11_S,NA,Norm,Warm,Hyp,Ambient
+308,11.4,0.2,NA,-7.6,15.7,NA,NA,NA,2024,Both,2,Both2,Hyp,1,Hyp1,O,3,S,2024_Both02_Hyp01_O3_S,6/6/25 SC ended with this one today,Hyp,Warm,Hyp,Ambient
+309,12,8.1,NA,-23.4,36.2,NA,NA,NA,2024,Hyp,5,Hyp5,Hyp,1,Hyp1,B,9,T,2024_Hyp05_Hyp01_B9_T,6/9/25 SC started with this one today,Hyp,Ambient,Hyp,Ambient
+310,13,7.5,NA,-25.6,50.7,NA,NA,NA,2024,Cont,4,Cont4,Hyp,1,Hyp1,W,7,T,2024_Cont04_Hyp01_W7_T,NA,Norm,Ambient,Hyp,Ambient
+311,12.2,6.2,small peak - error on δ15N will be higher,-25.1,46.2,NA,NA,NA,2024,Both,5,Both5,Hyp,1,Hyp1,O,10,T,2024_Both05_Hyp01_O10_T,NA,Hyp,Warm,Hyp,Ambient
+312,12.4,8.6,NA,-24.7,42.9,NA,NA,NA,2024,Hyp,6,Hyp6,Hyp,1,Hyp1,B,12,T,2024_Hyp06_Hyp01_B12_T,NA,Hyp,Ambient,Hyp,Ambient
+313,12.3,8.8,NA,-25.4,50.7,NA,NA,NA,2024,Warm,6,Warm6,Hyp,1,Hyp1,G,11,T,2024_Warm06_Hyp01_G11_T,NA,Norm,Warm,Hyp,Ambient
+314,12.4,9.2,NA,-23.8,38.9,NA,NA,NA,2024,Cont,1,Cont1,Hyp,1,Hyp1,W,1,T,2024_Cont01_Hyp01_W1_T,NA,Norm,Ambient,Hyp,Ambient
+315,12.2,8.7,NA,-24.9,46.8,NA,NA,NA,2024,Warm,2,Warm2,Hyp,1,Hyp1,G,4,T,2024_Warm02_Hyp01_G4_T,NA,Norm,Warm,Hyp,Ambient
+316,12,5.6,small peak - error on δ15N will be higher,-25.2,45.8,NA,NA,NA,2024,Both,2,Both2,Hyp,1,Hyp1,O,3,T,2024_Both02_Hyp01_O3_T,NA,Hyp,Warm,Hyp,Ambient
+317,11.1,0.2,NA,-7.7,15.7,NA,NA,NA,2024,Cont,3,Cont3,Hyp,3,Hyp3,W,30,S,2024_Cont03_Hyp03_W30_S,NA,Norm,Ambient,Hyp,Ambient
+318,11.2,0.2,NA,-9.4,17,NA,NA,NA,2024,Cont,5,Cont5,Hyp,3,Hyp3,W,34,S,2024_Cont05_Hyp03_W34_S,NA,Norm,Ambient,Hyp,Ambient
+319,11.3,0.2,NA,-6.9,15.1,NA,NA,NA,2024,Both,5,Both5,Hyp,3,Hyp3,O,32,S,2024_Both05_Hyp03_O32_S,NA,Hyp,Warm,Hyp,Ambient
+320,12.2,8,NA,-24.4,39.9,NA,NA,NA,2024,Cont,3,Cont3,Hyp,3,Hyp3,W,30,T,2024_Cont03_Hyp03_W30_T,NA,Norm,Ambient,Hyp,Ambient
+321,12.3,8.8,NA,-24.7,42.8,NA,NA,NA,2024,Cont,5,Cont5,Hyp,3,Hyp3,W,34,T,2024_Cont05_Hyp03_W34_T,NA,Norm,Ambient,Hyp,Ambient
+322,11.9,6.1,small peak - error on δ15N will be higher,-24,39.1,NA,NA,NA,2024,Both,5,Both5,Hyp,3,Hyp3,O,32,T,2024_Both05_Hyp03_O32_T,NA,Hyp,Warm,Hyp,Ambient
+323,11.2,0.2,NA,-9.8,17.3,NA,NA,NA,2024,Warm,4,Warm4,Hyp,3,Hyp3,G,32,S,2024_Warm04_Hyp03_G32_S,NA,Norm,Warm,Hyp,Ambient
+324,12,9,NA,-24.4,41.2,NA,NA,NA,2024,Warm,4,Warm4,Hyp,3,Hyp3,G,32,T,2024_Warm04_Hyp03_G32_T,NA,Norm,Warm,Hyp,Ambient
+325,13,0.2,NA,-7.6,15.8,NA,NA,NA,2024,Warm,1,Warm1,Cont,4,Cont4,G,37,S,2024_Warm01_Cont04_G37_S,NA,Norm,Warm,Norm,Ambient
+326,12.1,0.3,NA,-9,16.9,NA,NA,NA,2024,Hyp,1,Hyp1,Cont,4,Cont4,B,38,S,2024_Hyp01_Cont04_B38_S,NA,Hyp,Ambient,Norm,Ambient
+327,10.3,0.2,NA,-7.7,16.3,NA,NA,NA,2024,Cont,4,Cont4,Cont,4,Cont4,W,43,S,2024_Cont04_Cont04_W43_S,NA,Norm,Ambient,Norm,Ambient
+328,12.2,8.5,NA,-24.4,44.8,NA,NA,NA,2024,Warm,1,Warm1,Cont,4,Cont4,G,37,T,2024_Warm01_Cont04_G37_T,NA,Norm,Warm,Norm,Ambient
+329,12.9,8.7,NA,-24,41.2,NA,NA,NA,2024,Hyp,1,Hyp1,Cont,4,Cont4,B,38,T,2024_Hyp01_Cont04_B38_T,NA,Hyp,Ambient,Norm,Ambient
+330,12.4,8,NA,-25.6,49.4,NA,NA,NA,2024,Cont,4,Cont4,Cont,4,Cont4,W,43,T,2024_Cont04_Cont04_W43_T,NA,Norm,Ambient,Norm,Ambient
+331,11,0.2,NA,-8.4,16.7,NA,NA,NA,2024,Both,6,Both6,Cont,4,Cont4,O,48,S,2024_Both06_Cont04_O48_S,NA,Hyp,Warm,Norm,Ambient
+332,12.7,10,NA,-24.2,43.1,NA,NA,NA,2024,Both,6,Both6,Cont,4,Cont4,O,48,T,2024_Both06_Cont04_O48_T,6/9/2025 SC ended with this one today,Hyp,Warm,Norm,Ambient
+333,9.3,0.2,NA,-9,16.9,NA,NA,NA,2024,Hyp,2,Hyp2,Hyp,3,Hyp3,B,28,S,2024_Hyp02_Hyp03_B28_S,6/13/2025 SC started with this one today,Hyp,Ambient,Hyp,Ambient
+334,9.3,0.3,NA,-10.3,17.8,NA,NA,NA,2024,Hyp,4,Hyp4,Hyp,3,Hyp3,B,32,S,2024_Hyp04_Hyp03_B32_S,NA,Hyp,Ambient,Hyp,Ambient
+335,11.4,0.2,NA,-8.3,16.7,NA,NA,NA,2024,Warm,6,Warm6,Hyp,3,Hyp3,G,36,S,2024_Warm06_Hyp03_G36_S,NA,Norm,Warm,Hyp,Ambient
+336,12.1,8.1,NA,-23.6,37.7,NA,NA,NA,2024,Hyp,2,Hyp2,Hyp,3,Hyp3,B,28,T,2024_Hyp02_Hyp03_B28_T,NA,Hyp,Ambient,Hyp,Ambient
+337,12.2,8.8,NA,-23.6,38.7,NA,NA,NA,2024,Hyp,4,Hyp4,Hyp,3,Hyp3,B,32,T,2024_Hyp04_Hyp03_B32_T,NA,Hyp,Ambient,Hyp,Ambient
+338,12.5,5.5,small peak - error on δ15N will be higher,-22.7,34.8,NA,NA,NA,2024,Warm,6,Warm6,Hyp,3,Hyp3,G,36,T,2024_Warm06_Hyp03_G36_T,NA,Norm,Warm,Hyp,Ambient
+339,11.7,0.2,NA,-7.4,15.9,NA,NA,NA,2024,Hyp,1,Hyp1,Cont,1,Cont1,B,2,S,2024_Hyp01_Cont01_B2_S,NA,Hyp,Ambient,Norm,Ambient
+340,11.6,0.3,NA,-10.5,17.7,NA,NA,NA,2024,Cont,5,Cont5,Cont,1,Cont1,W,9,S,2024_Cont05_Cont01_W9_S,NA,Norm,Ambient,Norm,Ambient
+341,11.5,0.2,NA,-10.2,18.2,NA,NA,NA,2024,Cont,6,Cont6,Cont,1,Cont1,W,10,S,2024_Cont06_Cont01_W10_S,NA,Norm,Ambient,Norm,Ambient
+342,12.8,9.5,NA,-24.1,40.1,NA,NA,NA,2024,Hyp,1,Hyp1,Cont,1,Cont1,B,2,T,2024_Hyp01_Cont01_B2_T,NA,Hyp,Ambient,Norm,Ambient
+343,12.5,9.7,NA,-23.7,39.9,NA,NA,NA,2024,Cont,5,Cont5,Cont,1,Cont1,W,9,T,2024_Cont05_Cont01_W9_T,"6/13/25 Fixed this sample name to be correct, had the wrong sample name (G6) but the right information in the other columns. Fixed sample name from Warm3_Control1_G6_S",Norm,Ambient,Norm,Ambient
+344,12.5,9.1,NA,-24.2,41.6,NA,NA,NA,2024,Cont,6,Cont6,Cont,1,Cont1,W,10,T,2024_Cont06_Cont01_W10_T,NA,Norm,Ambient,Norm,Ambient
+345,9.9,0.2,NA,-9.2,17.4,NA,NA,NA,2024,Both,6,Both6,Hyp,3,Hyp3,O,34,S,2024_Both06_Hyp03_O34_S,NA,Hyp,Warm,Hyp,Ambient
+346,9.7,0.2,NA,-8.1,16.3,NA,NA,NA,2024,Both,1,Both1,Cont,1,Cont1,O,1,S,2024_Both01_Cont01_O1_S,NA,Hyp,Warm,Norm,Ambient
+347,11.8,7.9,NA,-23.8,39.9,NA,NA,NA,2024,Both,6,Both6,Hyp,3,Hyp3,O,34,T,2024_Both06_Hyp03_O34_T,NA,Hyp,Warm,Hyp,Ambient
+348,11.9,9.7,NA,-24.3,41.6,NA,NA,NA,2024,Both,1,Both1,Cont,1,Cont1,O,1,T,2024_Both01_Cont01_O1_T,6/13/25 SC ended with this one today,Hyp,Warm,Norm,Ambient
+349,10.5,0.3,NA,-9.5,17.6,NA,NA,NA,2024,Hyp,2,Hyp2,Cont,4,Cont4,B,40,S,2024_Hyp02_Cont04_B40_S,6/16/25 SC started with this one today,Hyp,Ambient,Norm,Ambient
+350,10.8,0.2,NA,-9.1,17.3,NA,NA,NA,2024,Both,1,Both1,Cont,4,Cont4,O,37,S,2024_Both01_Cont04_O37_S,NA,Hyp,Warm,Norm,Ambient
+351,10.9,0.2,NA,-7.9,16.3,NA,NA,NA,2024,Cont,5,Cont5,Cont,4,Cont4,W,46,S,2024_Cont05_Cont04_W46_S,NA,Norm,Ambient,Norm,Ambient
+352,11.9,6.2,small peak - error on δ15N will be higher,-23.5,36.6,NA,NA,NA,2024,Hyp,2,Hyp2,Cont,4,Cont4,B,40,T,2024_Hyp02_Cont04_B40_T,NA,Hyp,Ambient,Norm,Ambient
+353,12.7,8.1,NA,-25.4,49,NA,NA,NA,2024,Both,1,Both1,Cont,4,Cont4,O,37,T,2024_Both01_Cont04_O37_T,NA,Hyp,Warm,Norm,Ambient
+354,12.8,9,NA,-24.2,39.7,NA,NA,NA,2024,Cont,5,Cont5,Cont,4,Cont4,W,46,T,2024_Cont05_Cont04_W46_T,NA,Norm,Ambient,Norm,Ambient
+355,4.6,0.5,NA,-11.9,20.9,NA,NA,NA,2024,Warm,6,Warm6,Cont,4,Cont4,G,47,S,2024_Warm06_Cont04_G47_S,NA,Norm,Warm,Norm,Ambient
+356,10.5,0.2,NA,-8.6,17.2,NA,NA,NA,2024,Warm,6,Warm6,Cont,1,Cont1,G,12,S,2024_Warm06_Cont01_G12_S,NA,Norm,Warm,Norm,Ambient
+357,6.6,0.3,NA,-10.2,19.1,NA,NA,NA,2024,Both,3,Both3,Cont,1,Cont1,O,5,S,2024_Both03_Cont01_O5_S,NA,Hyp,Warm,Norm,Ambient
+358,12.3,6.8,small peak - error on δ15N will be higher,-24.7,48.8,NA,NA,NA,2024,Warm,6,Warm6,Cont,4,Cont4,G,47,T,2024_Warm06_Cont04_G47_T,NA,Norm,Warm,Norm,Ambient
+359,12,7.8,NA,-24.9,44.7,NA,NA,NA,2024,Warm,6,Warm6,Cont,1,Cont1,G,12,T,2024_Warm06_Cont01_G12_T,NA,Norm,Warm,Norm,Ambient
+360,14.4,0.2,NA,-7.7,15.6,NA,NA,NA,2024,Warm,3,Warm3,Cont,1,Cont1,G,6,S,2024_Warm03_Cont01_G6_S,NA,Norm,Warm,Norm,Ambient
+361,11.1,0.2,NA,-9.3,17,NA,NA,NA,2024,Hyp,4,Hyp4,Cont,1,Cont1,B,8,S,2024_Hyp04_Cont01_B8_S,NA,Hyp,Ambient,Norm,Ambient
+362,12.4,8.5,NA,-25,44.6,NA,NA,NA,2024,Warm,3,Warm3,Cont,1,Cont1,G,6,T,2024_Warm03_Cont01_G6_T,NA,Norm,Warm,Norm,Ambient
+363,11.8,5.7,small peak - error on δ15N will be higher,-25.7,60.8,NA,NA,NA,2024,Hyp,4,Hyp4,Cont,1,Cont1,B,8,T,2024_Hyp04_Cont01_B8_T,NA,Hyp,Ambient,Norm,Ambient
+364,10.9,0.2,NA,-8.3,16.1,NA,NA,NA,2024,Both,4,Both4,Hyp,6,Hyp6,O,67,S,2024_Both04_Hyp06_O67_S,NA,Hyp,Warm,Hyp,Ambient
+365,12.1,0.2,NA,-8.4,16.2,NA,NA,NA,2024,Hyp,3,Hyp3,Hyp,6,Hyp6,B,65,S,2024_Hyp03_Hyp06_B65_S,NA,Hyp,Ambient,Hyp,Ambient
+366,12,0.2,NA,-7.5,15.6,NA,NA,NA,2024,Warm,1,Warm1,Hyp,6,Hyp6,G,62,S,2024_Warm01_Hyp06_G62_S,NA,Norm,Warm,Hyp,Ambient
+367,12.2,8.2,NA,-24.2,43.7,NA,NA,NA,2024,Both,4,Both4,Hyp,6,Hyp6,O,67,T,2024_Both04_Hyp06_O67_T,NA,Hyp,Warm,Hyp,Ambient
+368,12.5,8.5,NA,-24.2,44,NA,NA,NA,2024,Hyp,3,Hyp3,Hyp,6,Hyp6,B,65,T,2024_Hyp03_Hyp06_B65_T,NA,Hyp,Ambient,Hyp,Ambient
+369,12.6,8,NA,-24.3,42.1,NA,NA,NA,2024,Warm,1,Warm1,Hyp,6,Hyp6,G,62,T,2024_Warm01_Hyp06_G62_T,NA,Norm,Warm,Hyp,Ambient
+370,11.3,0.3,NA,-8,15.9,NA,NA,NA,2024,Cont,4,Cont4,Hyp,6,Hyp6,W,67,S,2024_Cont04_Hyp06_W67_S,NA,Norm,Ambient,Hyp,Ambient
+371,10.4,0.2,NA,-7.4,15.4,NA,NA,NA,2024,Both,3,Both3,Hyp,6,Hyp6,O,66,S,2024_Both03_Hyp06_O66_S,NA,Hyp,Warm,Hyp,Ambient
+372,10,0.2,NA,-8.3,16.1,NA,NA,NA,2024,Hyp,2,Hyp2,Hyp,6,Hyp6,B,63,S,2024_Hyp02_Hyp06_B63_S,6/16/25 SC ended with this one today,Hyp,Ambient,Hyp,Ambient
+373,12.4,8.5,NA,-23.9,42.8,NA,NA,NA,2024,Cont,4,Cont4,Hyp,6,Hyp6,W,67,T,2024_Cont04_Hyp06_W67_T,6/23/25 SC started with this one today,Norm,Ambient,Hyp,Ambient
+374,12.2,7.5,NA,-24.9,51.9,NA,NA,NA,2024,Both,3,Both3,Hyp,6,Hyp6,O,66,T,2024_Both03_Hyp06_O66_T,NA,Hyp,Warm,Hyp,Ambient
+375,12.8,7.4,NA,-23.9,44.6,NA,NA,NA,2024,Hyp,2,Hyp2,Hyp,6,Hyp6,B,63,T,2024_Hyp02_Hyp06_B63_T,NA,Hyp,Ambient,Hyp,Ambient
+376,9.4,0.2,NA,-9,16.7,NA,NA,NA,2024,Cont,3,Cont3,Hyp,6,Hyp6,W,65,S,2024_Cont03_Hyp06_W65_S,NA,Norm,Ambient,Hyp,Ambient
+377,10.7,0.2,NA,-8.3,16.3,NA,NA,NA,2024,Warm,2,Warm2,Hyp,6,Hyp6,G,64,S,2024_Warm02_Hyp06_G64_S,NA,Norm,Warm,Hyp,Ambient
+378,11.7,5.7,small peak - error on δ15N will be higher,-25.4,60.1,NA,NA,NA,2024,Cont,3,Cont3,Hyp,6,Hyp6,W,65,T,2024_Cont03_Hyp06_W65_T,NA,Norm,Ambient,Hyp,Ambient
+379,13.2,7.9,NA,-24.3,44,NA,NA,NA,2024,Warm,2,Warm2,Hyp,6,Hyp6,G,64,T,2024_Warm02_Hyp06_G64_T,6/23/25 SC ended with this one today,Norm,Warm,Hyp,Ambient
+100B,10.6,0.2,NA,-8.6,16.1,NA,Y,Y,2024,Both,6,Both6,Both,2,Both2,O,24,S,2024_Both06_Both02_O24_S,NA,Hyp,Warm,Hyp,Warm
+104B,12.1,7.5,NA,-24,40,NA,Y,Y,2024,Both,6,Both6,Both,2,Both2,O,24,T,2024_Both06_Both02_O24_T,NA,Hyp,Warm,Hyp,Warm
+164B,11.4,0.3,NA,-8.8,16.3,NA,Y,Y,2024,Warm,1,Warm1,Warm,5,Warm5,G,49,S,2024_Warm01_Warm05_G49_S,NA,Norm,Warm,Norm,Warm
+167B,12.1,6.6,NA,-24.3,39.2,NA,Y,Y,2024,Warm,1,Warm1,Warm,5,Warm5,G,49,T,2024_Warm01_Warm05_G49_T,NA,Norm,Warm,Norm,Warm
+190B,11.4,0.2,NA,-9.1,16.8,NA,Y,Y,2024,Warm,6,Warm6,Warm,2,Warm2,G,24,S,2024_Warm06_Warm02_G24_S,NA,Norm,Warm,Norm,Warm
+193B,12,7.8,NA,-22.5,35.4,NA,Y,Y,2024,Warm,6,Warm6,Warm,2,Warm2,G,24,T,2024_Warm06_Warm02_G24_T,NA,Norm,Warm,Norm,Warm
+218B,12.6,9.3,NA,-24.3,41.1,NA,Y,Y,2024,Warm,3,Warm3,Hyp,5,Hyp5,G,53,T,2024_Warm03_Hyp05_G53_T,NA,Norm,Warm,Hyp,Ambient
+221B,11.6,0.2,NA,-6.7,14.9,NA,Y,Y,2024,Warm,3,Warm3,Hyp,5,Hyp5,G,53,S,2024_Warm03_Hyp05_G53_S,NA,Norm,Warm,Hyp,Ambient
+100_avg,10.3,0.2,NA,-8.95,16.7,NA,NA,NA,2024,Both,6,Both6,Both,2,Both2,O,24,S,2024_Both06_Both02_O24_S,NA,Hyp,Warm,Hyp,Warm
+104_avg,11.95,7.35,NA,-23.9,39.1,NA,NA,NA,2024,Both,6,Both6,Both,2,Both2,O,24,T,2024_Both06_Both02_O24_T,NA,Hyp,Warm,Hyp,Warm
+164_avg,11.65,0.3,NA,-8.85,15.95,NA,NA,NA,2024,Warm,1,Warm1,Warm,5,Warm5,G,49,S,2024_Warm01_Warm05_G49_S,NA,Norm,Warm,Norm,Warm
+167_avg,12,6.65,NA,-24.3,38.55,NA,NA,NA,2024,Warm,1,Warm1,Warm,5,Warm5,G,49,T,2024_Warm01_Warm05_G49_T,NA,Norm,Warm,Norm,Warm
+190_avg,11.65,0.2,NA,-9,17,NA,NA,NA,2024,Warm,6,Warm6,Warm,2,Warm2,G,24,S,2024_Warm06_Warm02_G24_S,NA,Norm,Warm,Norm,Warm
+193_avg,12.05,7.8,NA,-22.5,35.25,NA,NA,NA,2024,Warm,6,Warm6,Warm,2,Warm2,G,24,T,2024_Warm06_Warm02_G24_T,NA,Norm,Warm,Norm,Warm
+218_avg,12.55,9.3,NA,-24.25,41,NA,NA,NA,2024,Warm,3,Warm3,Hyp,5,Hyp5,G,53,T,2024_Warm03_Hyp05_G53_T,NA,Norm,Warm,Hyp,Ambient
+221_avg,11.9,0.2,NA,-6.75,14.95,NA,NA,NA,2024,Warm,3,Warm3,Hyp,5,Hyp5,G,53,S,2024_Warm03_Hyp05_G53_S,NA,Norm,Warm,Hyp,Ambient
