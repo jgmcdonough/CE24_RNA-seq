@@ -1,2 +1,4 @@
 # Growth Analysis
-Includes [code](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/growth/growth_treatments.ipynb) and resulting [plots](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/growth/plots) for the genetic oysters (a subset of the [full growth dataset](https://github.com/GWLab-UML/CE_ORCC/tree/main/2024/growth)).
+Includes [code](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/phenotype_data/growth/growth.ipynb) and resulting [plots](https://github.com/jgmcdonough/CE24_RNA-seq/tree/main/analysis/phenotype_data/growth/plots) for the genetic oysters (a subset of the [full growth dataset](https://github.com/GWLab-UML/CE_ORCC/tree/main/2024/growth)).
+
+[inDepth.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/phenotype_data/growth/inDepth_growth.ipynb) differs slightly from [growth.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/phenotype_data/growth/growth.ipynb) in that growth.ipynb is less complicated and organized in the same way as [massFinal.ipynb](https://github.com/jgmcdonough/CE24_RNA-seq/blob/main/analysis/phenotype_data/massFinal.ipynb)
